@@ -1,0 +1,3138 @@
+[
+  {
+    "id": "feet_follow",
+    "term": "feet follow",
+    "definition_cleaned": "A climbing technique (common in indoor climbing) where the climber must place their feet on the same holds that their hands have just vacated.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "a-grade",
+    "term": "A-grade",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>aid climbing grade</b>.</span></p> The technical difficulty <b>grading</b> system for <b>aid climbing</b> (both for \"original\" and an adapted version for \"new wave\"), which goes: A0, A1, A2, A3, A4, A5 and up to A6 (for \"new wave\"). See <i><b>C-grade</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "abalakov_thread",
+    "term": "Abalakov thread",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>V-thread</b>.</span></p> A type of <b>anchor</b> used in <b>abseiling</b> especially in winter and in <b>ice climbing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "abd",
+    "term": "ABD",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>assisted braking device</b>.</span></p> A term used to describe a <b>progress capture device</b> or a <b>self-locking device</b> such as a <b>Petzl GriGri</b> that immediately locks if the rope travels through it quickly in a specific direction. See <i><b>auto belay</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "abseiling",
+    "term": "abseiling",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>rappelling</b>.</span></p> A technique by which a climber descends via a <b>fixed rope</b> that is firmly attached to a fixed <b>anchor</b> point, which is also known as an \"abseil station\". See <i><b>tat</b></i> and <i><b>cord</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "abseil_rack",
+    "term": "abseil rack",
+    "definition_cleaned": "<br/><br/>1. Name given to the collective set of <b>protection</b> equipment carried by a <b>lead climber</b> up a climb.<br/><br/>2. A type of heavy-duty \"all-weather\" <b>descender</b> known as an \"abseil rack\" or a \"rappel rack\", consisting of metal bars on a U-shaped chassis, which is frequently used in <b>caving</b>. An alternative heavier device is a \"whaletail\" (also \"whale tail\") which is a machined block often used by rescuers.",
+    "image_file": "rack.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "add-on",
+    "term": "add-on",
+    "definition_cleaned": "An indoor climbing game where climbers take turns creating a route, adding two moves at a time.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "accessory_cord",
+    "term": "accessory cord",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>cordage</b>, <b>accessory cord</b></span></p> A short piece of thin climbing rope used for various purposes in climbing, including for creating <b>abseil stations</b>. See <i><b>tat</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "active_protection",
+    "term": "active protection",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>active camming device</b> or <b>ACD</b></span></p> Type of <b>protection</b> that dynamically changes to absorb the shape and strength of a fall; active protection is the opposite of <b>passive protection</b>. See <i><b>cam</b>s</i> and <i><b>friend</b>s</i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "adze",
+    "term": "adze",
+    "definition_cleaned": "A thin blade mounted perpendicular to the handle on an <b>ice axe</b>; is used for chopping footholds.",
+    "image_file": "adze.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "aid_climbing",
+    "term": "aid climbing",
+    "definition_cleaned": "Type of rock climbing where artificial devices are used to make upward progress (and not just for <b>protection</b>); opposite of <b>free climbing</b>. See <i><b>clean aid climbing</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "aider",
+    "term": "aider",
+    "definition_cleaned": "A short ladder made of <b>webbing</b> that is used for <b>aid climbing</b>.",
+    "image_file": "etrier.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "alpine_climbing",
+    "term": "alpine climbing",
+    "definition_cleaned": "A form of <b>mountaineering</b> that includes <b>ice climbing</b>, <b>dry-tooling</b> and <b>rock climbing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "alpine-grade",
+    "term": "Alpine-grade",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>IFAS grade</b>, and <b>UIAA Scale of Difficulty</b></span></p> Part of the <b>alpine climbing</b> system for <b>grading</b> the technical difficulty of alpine climbing routes, which goes: F (\"facile/easy\"), PD (\"peu difficile/little difficult\"), AD (\"assez difficile/fairly hard\"), D (\"difficile/difficult\"), TD (\"tr\u00e8s difficile/very hard\"), and ED (\"extr\u00eamement difficile/extremely difficult\"); ED then goes ED1, ED2, ED3, .. etc.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "alpine_knee",
+    "term": "alpine knee",
+    "definition_cleaned": "An awkward <b>climbing technique</b> where the knee is placed on the hold rather than the foot.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "alpine_start",
+    "term": "alpine start",
+    "definition_cleaned": "Starting a climb very early in the morning, generally before 5:00<span> </span>a.m. (and even much earlier); common to <b>alpine climbing</b> to avoid afternoon rockfalls and melting snow on the route, or to get firmer ice on the glacier travel to and from the route.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "alpine_style",
+    "term": "alpine style",
+    "definition_cleaned": "Carrying all your own gear (even for multi-day climbs); also called \"light-weight\" climbing; opposite of <b>expedition style</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "american_death_triangle",
+    "term": "American death triangle",
+    "definition_cleaned": "A dangerous <b>anchor</b> that is created by connecting a closed loop of webbing between two points of protection.",
+    "image_file": "american_death_triangle.png",
+    "is_technique": false
+  },
+  {
+    "id": "anchor",
+    "term": "anchor",
+    "definition_cleaned": "An arrangement of one or more pieces of fixed <b>protection</b> set up to support the weight of a <b>belay</b>, a <b>top rope</b>, or an <b>abseiling</b>. See also <i><b>deadman anchor</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "ape_index",
+    "term": "ape index",
+    "definition_cleaned": "A measure of the ratio of a climber's arm span relative to their height.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "ar\u00eate",
+    "term": "ar\u00eate",
+    "definition_cleaned": "1. A small ridge-like feature or a sharp outward-facing corner on a steep rock face.<br/><br/>2. A narrow ridge of rock formed by glacial erosion.<br/><br/>3. A method of <b>indoor climbing</b> in which one is able to use such a corner as a hold. See also <i><b>dihedral</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "arm_bar",
+    "term": "arm bar",
+    "definition_cleaned": "A <b>climbing technique</b> where the climber jams their arm into a crack and locks it into place, to aid their ascent.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "armchair_landing",
+    "term": "armchair landing",
+    "definition_cleaned": "A technique in <b>deep-water soloing</b> for entering shallower water where the climber needs to avoid deeper hazards in the water; executed properly a 30-foot (9.1 m) fall can be absorbed in just 5 feet (1.5 m) of water.",
+    "image_file": "armchair_landing.png",
+    "is_technique": false
+  },
+  {
+    "id": "ascender",
+    "term": "ascender",
+    "definition_cleaned": "A mechanical device used for ascending a <b>fixed rope</b>, very common in <b>aid climbing</b> and <b>big wall climbing</b>. See <i><b>jumar</b></i>.",
+    "image_file": "ascender.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "aspect",
+    "term": "aspect",
+    "definition_cleaned": "The geographical direction which a particular slope or rock wall faces, e.g. \"north aspect\".",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "atc",
+    "term": "ATC",
+    "definition_cleaned": "A <b>belay device</b> from <b>Black Diamond</b> (the \"Air Traffic Controller\") that became a generic term for any <b>tuber</b> belay device.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "australian_rappel",
+    "term": "Australian rappel",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>angel jumping</b>, <b>deepelling</b> and <b>rap jumping</b>.</span></p> A type of <b>abseiling</b> technique performed face first; used for military purposes.",
+    "image_file": "australian_rappel.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "auto_belay",
+    "term": "auto belay",
+    "definition_cleaned": "A mechanical <b>belay device</b> on indoor <b>climbing wall</b>s, which hangs from the top of routes that solo climbers clip into.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "b-grade",
+    "term": "B-grade",
+    "definition_cleaned": "A <b>grading system</b> for <b>bouldering</b> invented by <b>John Gill</b>, now superseded by the <b>V-grading system</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "bachar_ladder",
+    "term": "Bachar ladder",
+    "definition_cleaned": "A piece of training equipment used to improve <b>campusing</b> and core body and arm strength; invented by <b>John Bachar</b>.",
+    "image_file": "bachar_ladder.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "back-clipping",
+    "term": "back-clipping",
+    "definition_cleaned": "A hazardous mistake of clipping the rope into a <b>quickdraw</b> so the leader's end runs underneath the quickdraw as opposed to over the top of it; if the leader falls, the rope may fold directly over the gate, causing it to open and fail.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "back-step",
+    "term": "back-step",
+    "definition_cleaned": "Stepping on a hold where the outside edge \u2014 little toe side \u2014 of the shoe touches the rock.",
+    "image_file": "back-step.jpg",
+    "is_technique": true
+  },
+  {
+    "id": "bail",
+    "term": "bail",
+    "definition_cleaned": "To retreat from a climb.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "ball_nut",
+    "term": "ball nut",
+    "definition_cleaned": "A type of <b>protection</b> device consisting of a nut and a movable ball used for very small thin cracks.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "barn-door",
+    "term": "barn-door",
+    "definition_cleaned": "When all four points of contact are on a straight axis, the body can swing uncontrollably on this axis. See <i><b>flagging</b></i>.",
+    "image_file": "barn-door.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "bashie",
+    "term": "bashie",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>head</b>.</span></p> A small nut on a loop of wire with a head made of metal (often copper), soft enough to deform during placement, which is often with a <b>hammer</b>; commonly used in <b>aid climbing</b> as a point of placement, remaining fixed in-situ after placement.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "bat_hang",
+    "term": "bat hang",
+    "definition_cleaned": "Where a climber gains a brief upside-down rest by hanging from their wedged feet. See <i><b>chest jam</b></i> and <i><b>knee bar</b></i>.",
+    "image_file": "bat_hang.jpg",
+    "is_technique": true
+  },
+  {
+    "id": "belay",
+    "term": "belay",
+    "definition_cleaned": "To <b>protect</b> a roped <b>lead climber</b> from falling by controlling the rope; usually involves a <b>belay device</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "belayer",
+    "term": "belayer",
+    "definition_cleaned": "The person <b>belaying</b> the <b>lead climber</b>, also known as a <b>second</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "belay_device",
+    "term": "belay device",
+    "definition_cleaned": "A mechanical device used by <b>belayers</b> to increase braking force when belaying; can be passive like a <b>figure eights</b> or <b>tubers</b>, or a more active <b>assisted braking device</b> like the <b>Petzl GriGri</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "belay_glasses",
+    "term": "belay glasses",
+    "definition_cleaned": "Glasses that are worn by the <b>belayer</b> to help them avoid having to look upward, which can cause neck strain.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "belay_gloves",
+    "term": "belay gloves",
+    "definition_cleaned": "Gloves that are worn by the <b>belayer</b> to protect their skin in the event of sudden rope movement and to aid grip.",
+    "image_file": "belay_gloves.jpeg",
+    "is_technique": false
+  },
+  {
+    "id": "belay_loop",
+    "term": "belay loop",
+    "definition_cleaned": "The strongest point on a climbing <b>harness</b>, and the loop to which a <b>belay device</b> is physically attached.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "belay_off",
+    "term": "belay off",
+    "definition_cleaned": "A <b>climbing command</b> from a <b>belayer</b> to confirm that the friction of <b>belaying</b> has been removed from a climbing rope. It is a standard response to a climber's \"<b>off belay</b>\" request.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "belay_on",
+    "term": "belay on",
+    "definition_cleaned": "A <b>climbing command</b> from a <b>belayer</b> to confirm that the friction of <b>belaying</b> has been (re)applied to a climbing rope. It is a standard response to a climber's \"<b>on belay</b>\" request.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "belay_station",
+    "term": "belay station",
+    "definition_cleaned": "The place from which a <b>belayer</b> is belaying, sometimes anchored to the ground, or directly to the rock (particularly in a <b>hanging belay</b> on <b>big wall climbing</b> routes), or other objects.",
+    "image_file": "belay_station.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "bergschrund",
+    "term": "bergschrund",
+    "definition_cleaned": "A <b>crevasse</b> that forms on the upper portion of a <b>glacier</b> where the moving section pulls away from the <b>headwall</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "beta",
+    "term": "beta",
+    "definition_cleaned": "Information on how to complete (or protect) a particular climbing route. See <i><b>on-sight</b></i> and <i><b>flash</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "beta_break",
+    "term": "beta break",
+    "definition_cleaned": "In <b>sport climbing</b>, a move on a climbing route other than the move originally intended by the route setter. In bouldering, a move other than the move usually used on the boulder.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "beta_flash",
+    "term": "beta flash",
+    "definition_cleaned": "To ascend a route on the first attempt, but having obtained <b>beta</b>; with no beta, it is an <b>on-sight</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "bicycle",
+    "term": "bicycle",
+    "definition_cleaned": "A <b>rock-climbing technique</b> for <b>overhangs</b> where the feet \"pinch-hold\" a foothold by one foot pushing down on it while the other foot pulls up on it (i.e. like the pedals on a bicycle).",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "big_bro",
+    "term": "Big Bro",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>tube chock</b>.</span></p> A hollow telescopic tubular device manufactured by Trango for use as <b>protection</b> in <b>off-width</b> <b>crack climbing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "big_wall_climbing",
+    "term": "big wall climbing",
+    "definition_cleaned": "A long sustained sheer exposed rock climb with <i>at least</i> 6\u201310 <b>pitch</b>es (over 300\u2013500 metres), that typically takes over a day (if not many days), and requires the hauling of food, water, sleeping bags, and the use of <b>portaledge</b>s.",
+    "image_file": "big_wall_climbing.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "bivouac",
+    "term": "bivouac",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>bivy</b> or <b>bivvy</b>.</span></p> A crude overnight camp or shelter on a climbing route; on a sheer vertical wall, a <b>portaledge</b> can be used.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "bivy-bag",
+    "term": "bivy-bag",
+    "definition_cleaned": "A lightweight garment or sack offering full-body protection from wind and rain, which is used in a <b>bivouac</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "body_belay",
+    "term": "body belay",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>hip belay</b>.</span></p> Where the <b>belayer</b> uses their body, and not a mechanical <b>belay device</b>, to increase braking force when belaying; usually involves wrapping the rope around their waist or hip.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "boinking",
+    "term": "boinking",
+    "definition_cleaned": "A <b>sport climbing</b> technique to get back onto the wall after falling by pulling on the rope to un-weight it, allowing the belayer to <b>take in</b> the <b>slack</b> quickly; avoids the fallen climber having to return to the ground.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "bollard",
+    "term": "bollard",
+    "definition_cleaned": "A large block of rock or ice that is used as an <b>anchor</b> to construct a <b>belay</b>.",
+    "image_file": "bollard.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "bolt",
+    "term": "bolt",
+    "definition_cleaned": "A point of <b>protection</b> permanently installed in a hole drilled into the rock, to which a metal <b>bolt hanger</b> is attached, with a hole to attach a <b>carabiner</b> or a <b>quickdraw</b>; used in <b>sport climbing</b> and in <b>competition climbing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "bolt_chopping",
+    "term": "bolt chopping",
+    "definition_cleaned": "The deliberate removal of <b>bolts</b> from a climb; happens on <b>traditional climbing</b> routes (e.g. the <i><b>Indian Face</b></i>); also featured in the \"bolt wars\" of the 1980s and 1990s in the US.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "bolt_ladder",
+    "term": "bolt ladder",
+    "definition_cleaned": "Sequence of <b>bolts</b> that are so close together, they can be used by <b>aid climbers</b> as a ladder.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "bolt_hanger",
+    "term": "bolt hanger",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>hanger</b>.</span></p> A piece of metal that is pre-attached to a <b>bolt</b> (i.e. before the bolt is screwed in) into which <b>quickdraw</b>s can be clipped.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "bolt_runner",
+    "term": "bolt runner",
+    "definition_cleaned": "A term to describe a <b>bolt</b> that has no <b>bolt hanger</b>; will require a <b>rivet hanger</b> to be used by a climber.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "bomb-proof",
+    "term": "bomb-proof",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>bomber</b>.</span></p> A highly secure <b>anchor</b>, or a particularly solid handhold or foothold.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "bosun's_chair",
+    "term": "bosun's chair",
+    "definition_cleaned": "A type of larger harness to give a climber relief from bearing a constant load via their <b>climbing harness</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "bouldering",
+    "term": "bouldering",
+    "definition_cleaned": "A type of climbing on large <b>boulders</b> less than 20 feet (6.1 m) high with only <b>crash pads</b> and <b>spotting</b> for protection.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "bouldering_mat",
+    "term": "bouldering mat",
+    "definition_cleaned": "A thick foam pad used for protection when <b>bouldering</b>; also called a crash pad.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "bounce_test",
+    "term": "bounce test",
+    "definition_cleaned": "A technique in <b>aid climbing</b> where a new placement is tested by using the <b>lead climber</b>'s bodyweight.<br/> Also recommended for questionable <b>abseil stations</b> testing.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "bowline_on_a_bight",
+    "term": "bowline on a bight",
+    "definition_cleaned": "A knot that makes a pair of fixed-size loops in the middle of a rope.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "bridging",
+    "term": "bridging",
+    "definition_cleaned": "Technique for climbing opposing corners by pushing in opposite directions with the feet and hands. See <b>chimneying</b>.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "bucket",
+    "term": "bucket",
+    "definition_cleaned": "A large handhold that is very easy to use.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "buildering",
+    "term": "buildering",
+    "definition_cleaned": "The practice of climbing on buildings, which is often illegal.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "buttress",
+    "term": "buttress",
+    "definition_cleaned": "A prominent rock feature that juts out from the rock face or from the mountain.",
+    "image_file": "buttress.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "c-grade",
+    "term": "C-grade",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>clean aid climbing grade</b>.</span></p> The technical difficulty <b>grading</b> system for <b>aid climbing</b> that is \"clean\" (i.e. no <b>hammered</b> <b>piton</b>s or <b>bolt</b>s), which goes: C0, C1, C2, C3, C4, and C5; also has an <b>A-grade</b> equivalent of the \"original\" aid grades for \"new wave\".",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "cam",
+    "term": "cam",
+    "definition_cleaned": "A <b>spring-loaded camming device</b> (SLCD), also known as \"friends\", used as <b>protection</b> in <b>traditional climbing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "camalot",
+    "term": "camalot",
+    "definition_cleaned": "A brand of <b>spring-loaded camming device</b> (SLCD), manufactured by <b>Black Diamond Equipment</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "campusing",
+    "term": "campusing",
+    "definition_cleaned": "Ascending a route without using the feet; is done on overhanging routes or on a <b>campus board</b>. See <i><b>paddling</b></i>.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "campus_board",
+    "term": "campus board",
+    "definition_cleaned": "A piece of <b>training equipment</b> used to build finger strength and strong arm lock-offs.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "carabiner",
+    "term": "carabiner",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>twist-lock carabiner</b>, <b>bent-gate carabiner</b>.</span></p> An aluminum loop with a spring-loaded gate used to attach various load-bearing climbing devices together.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "carrot_bolt",
+    "term": "carrot bolt",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>bash-in</b>.</span></p> An Australian term for a metal hex-headed <b>machine bolt</b> that functions like a <b>bolt</b> but with no fixed <b>bolt hanger</b>; climbers attach to the carrot bolt by using a version of a <b>rivet hanger</b> or by attaching a removable bolt hanger plate.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "chalk",
+    "term": "chalk",
+    "definition_cleaned": "Gymnastic <b>magnesium carbonate</b> chalk that is used to reduce moisture, improve friction, and mark holds.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "chalk_bag",
+    "term": "chalk bag",
+    "definition_cleaned": "A hand-sized holder for climbing <b>chalk</b> that is carried on a chalk belt or clipped to a <b>harness</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "chest_harness",
+    "term": "chest harness",
+    "definition_cleaned": "Type of <b>harness</b> that also covers the upper body to help prevent a rotation in any fall; particularly used when the climber is carrying a heavy pack, or is climbing in an area with crevasses.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "chest_jam",
+    "term": "chest jam",
+    "definition_cleaned": "Jamming the torso into a wide crack, especially to allow the climber to rest.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "chicken_bolt",
+    "term": "chicken bolt",
+    "definition_cleaned": "Term in <b>big wall climbing</b> and <b>aid climbing</b> to refer to a <b>bolt</b> placed to reduce the risk of a difficult section.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "chicken_head",
+    "term": "chicken head",
+    "definition_cleaned": "Knob or horn of rock narrowed at the base .",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "chicken_wing",
+    "term": "chicken wing",
+    "definition_cleaned": "A <b>crack</b> <b>climbing technique</b> where a hand is placed on one side of the crack and the shoulder on the other.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "chimneying",
+    "term": "chimneying",
+    "definition_cleaned": "<b>Rock-climbing technique</b> for climbing a rock cleft with mostly parallel vertical sides, large enough to fit the climber's body. See <i><b>stemming</b></i>.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "chipping",
+    "term": "chipping",
+    "definition_cleaned": "Improving a climbing hold by chipping the rock \u2014 is considered unethical and poor practice in climbing.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "chock",
+    "term": "chock",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>chockstone</b>.</span></p> A stone wedged in a crack that can be threaded to create a point of <b>protection</b> in <b>traditional climbing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "chop_route",
+    "term": "chop route",
+    "definition_cleaned": "British term for a <b>traditional climbing</b> route with very poor <b>protection</b> where any fall could be fatal. See <i><b>X</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "choss",
+    "term": "choss",
+    "definition_cleaned": "Loose or \"rotten\" rock that makes for unpleasant, difficult, or dangerous climbing; useful for <b>dry-tooling</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "classification",
+    "term": "classification",
+    "definition_cleaned": "Classifications intended as an objective measure of the technical difficulty of a climbing route (including rock, ice, bouldering, mixed, and aid). The most widely used <b>lead climbing</b> grading systems are the <b>French sport climbing grades</b>, and the American <b>Yosemite Decimal System</b>; for <b>bouldering</b>, it is the <b>font</b> grade and the <b>V-grade</b> systems.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "clean",
+    "term": "clean",
+    "definition_cleaned": "1. To remove (or strip) <b>protection</b> equipment from a climbing route.<br/><br/>2. A route that is free of loose vegetation and rocks; vigorous cleaning can be <b>chipping</b><br/><br/>3. To complete a climb without falling or resting on the rope. See <i><b>redpoint</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "clean_aid_climbing",
+    "term": "clean aid climbing",
+    "definition_cleaned": "A type of <b>aid climbing</b> where only removable <b>traditional climbing</b> <b>protection</b> is allowed, and no <b>hammered-in</b> <b>bolt</b>s or <b>piton</b>s. See <i><b>C-grade</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "clean_climbing",
+    "term": "clean climbing",
+    "definition_cleaned": "A broad movement that extended from the earlier <b>free climbing</b> movement, which advocated minimizing any form of climbing that permanently impacted the natural rock surface, such as the use of <b>bolt</b>s or <b>piton</b>s in <b>sport climbing</b>.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "cleaning_tool",
+    "term": "cleaning tool",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>nut key</b> or <b>nut tool</b>.</span></p> A device for removing jammed protection equipment, especially <b>nuts</b>, from a <b>route</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "climbing_area",
+    "term": "climbing area",
+    "definition_cleaned": "A region with numerous <b>climbing route</b>s. See <i><b>crag</b></i>",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "climbing_command",
+    "term": "climbing command",
+    "definition_cleaned": "A short phrase used for communication and instructions between a <b>lead climber</b> and a <b>belayer</b>. See <i><b>take</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "climbing_gym",
+    "term": "climbing gym",
+    "definition_cleaned": "A specialized <b>indoor climbing</b> center; usually just called a \"climbing centre\" in the UK.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "climbing_peak",
+    "term": "climbing peak",
+    "definition_cleaned": "From German (Klettergipfel) a formation that can only be ascended by climbing.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "climbing_rope",
+    "term": "climbing rope",
+    "definition_cleaned": "An elastic <b>climbing rope</b> that softens falls to some extent and absorbs the energy of heavy loads. Compare <i><b>static rope</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "climbing_route",
+    "term": "climbing route",
+    "definition_cleaned": "A path by which a climber reaches the top of a mountain, a rock face or obstacle, or an ice-covered face or obstacle.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "climbing_shoe",
+    "term": "climbing shoe",
+    "definition_cleaned": "Footwear designed specifically for rock climbing that fits tightly and with sticky rubber soles for grip.",
+    "image_file": "climbing_shoe.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "climbing_wall",
+    "term": "climbing wall",
+    "definition_cleaned": "Artificial rock face that is typically housed indoors; is also used for <b>competition climbing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "clip_in",
+    "term": "clip in",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>clipping in</b>.</span></p> The process of attaching the rope to <b>protection</b> (usually via a <b>carabiner</b>), to <b>belay</b> devices, or to other <b>anchors</b>. See <b>tie in</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "clipstick",
+    "term": "clipstick",
+    "definition_cleaned": "A long pole with a <b>quickdraw</b> that can be clipped into the first <b>bolt</b> of a route from the ground.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "competition_climbing",
+    "term": "competition climbing",
+    "definition_cleaned": "A type of climbing held on <b>climbing wall</b>s for mostly professional or Olympic climbers, split into the disciplines of <b>lead climbing</b> (on a bolted <b>sport climbing</b> route), <b>bouldering</b> and <b>speed climbing</b>. A fourth discipline of \"combined\" add the three together. See <i><b>IFSC</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "competition_ice_climbing",
+    "term": "competition ice climbing",
+    "definition_cleaned": "A type of ice climbing held on <b>climbing wall</b>s for mostly professional ice climbers, split into the disciplines of ice <b>lead climbing</b> (on a bolted <b>sport climbing</b> dry-wall route), and ice <b>speed climbing</b> on an iced route. See also <i><b>UIAA</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "copperhead",
+    "term": "copperhead",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>head</b>.</span></p> A small nut on a loop of wire with a head made of metal (often copper), soft enough to deform during placement, which is often with a <b>hammer</b>; commonly used in <b>aid climbing</b> as a point of placement, remaining fixed in-situ after placement.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "cord",
+    "term": "cord",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>cordage</b>, <b>accessory cord</b></span></p> A short piece of thin climbing rope used for various purposes in climbing, including for creating <b>abseil stations</b>. See <i><b>tat</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "cord_lock",
+    "term": "cord lock",
+    "definition_cleaned": "A lock or toggle used to fasten cords with gloved hands. Used on most mountaineering gear.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "cordelette",
+    "term": "cordelette",
+    "definition_cleaned": "A loop of narrow (e.g. 5-7 millimetre) accessory perlon cord that is used to tie into multiple <b>anchor</b> points.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "corner",
+    "term": "corner",
+    "definition_cleaned": "An inside corner of rock, the opposite of an <b>ar\u00eate</b> (UK). See <i><b>dihedral</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "cornice",
+    "term": "cornice",
+    "definition_cleaned": "An overhanging edge of snow on a ridge.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "crack_climbing",
+    "term": "crack climbing",
+    "definition_cleaned": "To ascend by wedging body parts into natural cracks in the rock. See <i><b>jamming</b></i>, <i><b>chimney</b></i>, and <i><b>off-width</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "crag",
+    "term": "crag",
+    "definition_cleaned": "An expanse of continuous rock that contains a number of rock <b>climbing route</b>s (e.g. <b>Clogwyn Du'r Arddu</b>).",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "crampons",
+    "term": "crampons",
+    "definition_cleaned": "A pair of metal frames with spikes that can be attached to boots to increase grip on snow and ice. See <i><b>front pointing</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "cranking",
+    "term": "cranking",
+    "definition_cleaned": "To pull on a climbing hold as hard as possible.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "crash_pad",
+    "term": "crash pad",
+    "definition_cleaned": "A thick foam pad used for protection when <b>bouldering</b>; also called a crash pad.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "crater",
+    "term": "crater",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>decking</b>.</span></p> Where a <b>lead climber</b> falls and hits the ground, either because their <b>protection</b> failed (e.g. <b>zipper fall</b>), the <b>runout</b> was too great, or the <b>belayer</b> failed to arrest or hold the rope.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "crimp",
+    "term": "crimp",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>crimper</b>.</span></p> A hold which is only just big enough to be grasped with the tips of the fingers.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "crux",
+    "term": "crux",
+    "definition_cleaned": "The most difficult portion of a climb; often the <b>grade</b> is defined by the difficulty of the crux.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "cut-loose",
+    "term": "cut-loose",
+    "definition_cleaned": "When a climber's feet swing away from the rock on overhanging terrain and they hang by their hands.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "d-grade",
+    "term": "D-grade",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>dry-tool climbing grade</b>.</span></p> Where <b>mixed climbing</b> routes are completed in fully dry conditions (i.e. no ice or snow), the \"M\" suffix of the <b>M-grade</b> is swapped for a \"D\".",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "dab",
+    "term": "dab",
+    "definition_cleaned": "A term in <b>bouldering</b> for touching the ground, <b>crash pad</b>, spotter, or hold from other <b>route</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "daisy_chain",
+    "term": "daisy chain",
+    "definition_cleaned": "A special-purpose type of <b>sling</b> with multiple sewn or tied loops, used in <b>aid</b> and <b>big wall climbing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "dead_hang",
+    "term": "dead hang",
+    "definition_cleaned": "When a climber hangs limp, such that their weight is held by arm <b>ligament</b> tension rather than by muscles.",
+    "image_file": "dead_hang.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "deadman_anchor",
+    "term": "deadman anchor",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>snow anchor</b> and <b>T-slot</b></span></p> An object which lies horizontally, buried in the snow, serving as an <b>anchor</b> for an attached <b>fixed rope</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "deadpoint",
+    "term": "deadpoint",
+    "definition_cleaned": "A controlled <b>dynamic motion</b> in which the hold is grabbed with one hand at the apex of upward motion of the body, while one or both feet and the other hand maintain contact with the rock. See <i><b>dynos</b></i>.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "deck",
+    "term": "deck",
+    "definition_cleaned": "The ground below a climbing route (i.e they fell to the ground and \"hit the deck\"). See <i><b>ground fall</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "deep-water_soloing",
+    "term": "deep-water soloing",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>psicobloc</b>.</span></p> <b>Free solo climbing</b> on an overhanging route over a body of water to absorb any fall.",
+    "image_file": "deep-water_soloing.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "descender",
+    "term": "descender",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>rappel device</b>.</span></p> A mechanical device that enables a controlled descent on a <b>fixed rope</b>; <b>belay devices</b> can be descenders. A <b>rack</b> is another type of descender.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "dexamethasone",
+    "term": "dexamethasone",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>dex</b>.</span></p> A drug to treat <b>high-altitude cerebral edema</b> (HACE) and <b>high-altitude pulmonary edema</b> (HAPE).",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "dialled",
+    "term": "dialled",
+    "definition_cleaned": "To have a complete understanding of a particular climbing move or sequence of moves on a route.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "diamox",
+    "term": "Diamox",
+    "definition_cleaned": "A drug used to inhibit the onset of <b>altitude sickness</b>; otherwise known as <i>acetazolamide</i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "dihedral",
+    "term": "dihedral",
+    "definition_cleaned": "An open book-shaped <b>corner</b> formed at the intersection of two flat rock faces; the opposite of an <i><b>ar\u00eate</b></i>.",
+    "image_file": "dihedral.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "direttissima",
+    "term": "direttissima",
+    "definition_cleaned": "Italian for \"shortest link\", is the most direct route to the summit of a mountain up the fall line (e.g. the <i>Brandler-Hasse Direttissima</i> on the <b>Cima Grande</b>, <b>Dolomites</b>); origin of the term is often attributed to <b>Emilio Comici</b> who said: \"I wish some day to make a route, and from the summit let fall a drop of water, and this is where my route will have gone\".",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "direct_start",
+    "term": "direct start",
+    "definition_cleaned": "A new variation of an existing rock climbing route that avoids detours taken before the main line is reached due to their greater difficulty (e.g. <b>Supr\u00eame Jumbo Love</b> as a direct start to <b>Jumbo Love</b>).",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "dirtbag",
+    "term": "dirtbag",
+    "definition_cleaned": "A climber who lives modestly and often itinerantly, to maximize the amount of time climbing. Practitioners included <b>Jan and Herb Conn</b> and <b>Fred Beckey</b> (from the film: <i>Dirtbag: The Legend of Fred Beckey</i>).",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "double_ropes",
+    "term": "double ropes",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>half ropes</b>.</span></p> In <b>lead climbing</b> where two thinner ropes are used instead of a single rope to manage <b>rope drag</b>. Compare <i><b>twin ropes</b></i>.",
+    "image_file": "double_ropes.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "downclimb",
+    "term": "downclimb",
+    "definition_cleaned": "To descend by climbing downward (rather than by <b>abseiling</b> or <b>lowering off</b>), after completing a climb, or <b>bail</b>ing.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "drag",
+    "term": "drag",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>rope drag</b>.</span></p> Friction from the rope running over the rock and through the lower <b>protection</b>. See <i><b>slack</b></i> and <i><b>double ropes</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "drilled_baby_angle",
+    "term": "drilled baby angle",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>drilled pitons</b>.</span></p> A type of <b>anchor</b> used in soft rock instead of <b>bolts</b> that uses a \"baby angle\" (<b>piton</b>) <b>hammered</b> into a drilled hole, which some think is better in soft rock than bolts that can crack the rock.",
+    "image_file": "drilled_baby_angle.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "drive-by",
+    "term": "drive-by",
+    "definition_cleaned": "A <b>deadpoint</b> where one arm crosses over the other to reach a hold that is above and to the side.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "drop_knee",
+    "term": "drop knee",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>egyptian</b>.</span></p> <p class=\"glossary-hatnote\"><span>Also <b>knee drop</b>.</span></p><p class=\"glossary-hatnote\"><span>Also <b>lolotte</b>.</span></p> An advanced <b>rock-climbing technique</b> where the knee is dropped downwards to twist the hips\u2014and the centre of gravity\u2014closer to the rock face, thus increasing the amount of upward reach and torque available to the climber; the unique stresses on the knee can lead to serious injuries.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "dry-tooling",
+    "term": "dry-tooling",
+    "definition_cleaned": "Using <b>ice climbing</b> tools such as <b>crampons</b> and <b>ice axes</b>, on bare rock. See <i><b>Mixed climbing</b></i>.",
+    "image_file": "dry-tooling.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "dry_tooling_style",
+    "term": "Dry Tooling Style",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>DTS</b>.</span></p> Type of <b>dry-tooling</b> with additional restrictions and particularly a prohibition on <b>yaniro</b> moves.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "d\u00fclfersitz",
+    "term": "D\u00fclfersitz",
+    "definition_cleaned": "A classical non-mechanical <b>abseiling</b> technique where the <b>fixed rope</b> is wrapped around the body.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "dynamic_rope",
+    "term": "dynamic rope",
+    "definition_cleaned": "An elastic <b>climbing rope</b> that softens falls to some extent and absorbs the energy of heavy loads. Compare <i><b>static rope</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "dyno",
+    "term": "dyno",
+    "definition_cleaned": "In rock climbing, a dynamic jump or leap to grab an out-of-reach hold; failure to grab the hold will usually result in a <b>fall</b>. See also <i><b>paddling</b></i> and <i><b>campusing</b></i>.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "e-grade",
+    "term": "E-grade",
+    "definition_cleaned": "Part of the British adjectival grading system that is used to rank the level of risk (a separate grade is given for technical difficulty) of <b>traditional climbing</b> routes, and which goes E1, E2, E3, ... to E11 (an additional metric is used for technical difficulty).",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "edging",
+    "term": "edging",
+    "definition_cleaned": "A technique of using the edge of a <b>climbing shoe</b> on a narrow foothold; in the absence of footholds, <b>smearing</b> is used.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "egyptian",
+    "term": "Egyptian",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>egyptian</b>.</span></p> <p class=\"glossary-hatnote\"><span>Also <b>knee drop</b>.</span></p><p class=\"glossary-hatnote\"><span>Also <b>lolotte</b>.</span></p> An advanced <b>rock-climbing technique</b> where the knee is dropped downwards to twist the hips\u2014and the centre of gravity\u2014closer to the rock face, thus increasing the amount of upward reach and torque available to the climber; the unique stresses on the knee can lead to serious injuries.",
+    "image_file": "egyptian.jpg",
+    "is_technique": true
+  },
+  {
+    "id": "egyptian_bridging",
+    "term": "Egyptian bridging",
+    "definition_cleaned": "The same position as <b>bridging</b> or <b>chimneying</b>, but with one leg in front and one behind the body.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "eight-thousander",
+    "term": "eight-thousander",
+    "definition_cleaned": "A mountain whose elevation exceeds 8,000 meters (26,247 ft) <b>a.s.l.</b>, of which there are only 14 in the world.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "eliminate",
+    "term": "eliminate",
+    "definition_cleaned": "1. A <b>bouldering</b> move, or series of moves, where certain holds are placed \"off bounds\".<br/><br/>2. A British climbing term for a route that does not take the most obvious or direct line, and instead 'eliminates' the use of other features to create its line (e.g. not allowing the climber to use a nearby crack in making their ascent).",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "elvis_legs",
+    "term": "Elvis legs",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>scissor leg</b>, <b>Elvis legs</b>, or <b>disco knee</b>.</span></p> The involuntary vibration of the leg due to fatigue and/or panic and stress.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "enchainment",
+    "term": "enchainment",
+    "definition_cleaned": "A mountaineering term to describe linking-up several individual climbs to create a larger undertaking.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "energy_absorber",
+    "term": "energy absorber",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>shock absorber</b>.</span></p> A piece of <b>protection</b> equipment used in <b>via ferrata</b> climbing to absorb the energy of the arrest of any fall. See <i><b>lanyard</b></i>.",
+    "image_file": "energy_absorber.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "epic",
+    "term": "epic",
+    "definition_cleaned": "An otherwise ordinary climb that turned into a major struggle.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "ernest",
+    "term": "ERNEST",
+    "definition_cleaned": "An acronym for Equalised, Redundant, No Extension, Strong, and Timely, in building <b>anchors</b>. See <i><b>SERENE</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "etrier",
+    "term": "etrier",
+    "definition_cleaned": "A short ladder made of <b>webbing</b> that is used for <b>aid climbing</b>.",
+    "image_file": "etrier.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "european_death_knot",
+    "term": "European death knot",
+    "definition_cleaned": "A flat overhand used to join a pair of ropes for retrievable <b>abseils</b>; considered dubious in America.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "expedition_style",
+    "term": "expedition style",
+    "definition_cleaned": "Using teams of support people (e.g. support climbers, sherpas, and/or equipment porters, etc.), and equipment (e.g. <b>fixed rope</b>, base camps, etc.) in helping the lead climbers reach the eventual summit; opposite of <b>alpine style</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "exposure",
+    "term": "exposure",
+    "definition_cleaned": "The level of empty space below or around a climber who is not in a secure position.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "face_climbing",
+    "term": "face climbing",
+    "definition_cleaned": "Any climbing on vertical rock using finger holds, <b>edges</b>, and <b>smears</b>, as opposed to <b>crack climbing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "fall_factor",
+    "term": "fall factor",
+    "definition_cleaned": "Ratio of the height (h) a climber falls to the rope length (l) available to absorb the energy of a fall.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "false_peak",
+    "term": "false peak",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>false summit</b></span></p> A <b>peak</b> that appears to be the pinnacle of the mountain but upon reaching, it turns out the <b>summit</b> is higher (and further ahead).",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "figure-four",
+    "term": "figure-four",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>figure of four</b> and <b>figure-four move</b> and <b>yaniro</b></span></p> An advanced <b>climbing technique</b> in which the climber hooks a leg over the opposite arm (which needs to be in a good handhold), and then pushes down with this leg to achieve a greater vertical reach; more common in <b>mixed climbing</b>.",
+    "image_file": "figure-four.jpg",
+    "is_technique": true
+  },
+  {
+    "id": "figure-nine",
+    "term": "figure-nine",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>figure of nine</b> and <b>figure-nine move</b></span></p> A variation of the <b>figure-four</b> move where the \"same-side\" leg is used instead of the \"opposite\" leg.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "figure_eight",
+    "term": "figure eight",
+    "definition_cleaned": "A <b>belay device</b> or <b>descender</b> that is shaped like the number eight.",
+    "image_file": "figure_eight.JPG",
+    "is_technique": false
+  },
+  {
+    "id": "figure-eight_knot",
+    "term": "figure-eight knot",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>figure-eight loop</b>.</span></p> A knot commonly used to <b>tie in</b> a climber's <b>harness</b> to the climbing rope.",
+    "image_file": "figure-eight_knot.JPG",
+    "is_technique": false
+  },
+  {
+    "id": "finger_jam",
+    "term": "finger jam",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>finger lock</b>.</span></p> A type of <b>jam</b> using the fingers in a crack.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "finger_board",
+    "term": "finger board",
+    "definition_cleaned": "Training equipment used to build finger strength. See also <i><b>hangboard</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "first_ascent",
+    "term": "first ascent",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>FA</b>.</span></p> The first successful ascent of a new <b>route</b> by any means, including <b>aid climbing</b> (i.e. not via <b>free climbing</b>).",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "first_free_ascent",
+    "term": "first free ascent",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>FFA</b>.</span></p> The <b>first ascent</b> of a new <b>route</b> without <b>aid</b>, following the <b>free climbing</b> criteria of a <b>redpoint</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "first_female_free_ascent",
+    "term": "first female free ascent",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>FFFA</b>.</span></p> The first female to complete a free ascent of a route that has already had an FFA.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "fist_jam",
+    "term": "fist jam",
+    "definition_cleaned": "A type of <b>jam</b> using the hand.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "fixed_rope",
+    "term": "fixed rope",
+    "definition_cleaned": "A rope that hangs from a fixed attachment point; commonly used for <b>abseiling</b> (going down) or for <b>jumaring</b> (going up).",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "flagging",
+    "term": "flagging",
+    "definition_cleaned": "A <b>rock-climbing technique</b> where a leg is held in a position to maintain balance, rather than to support weight, often to prevent a <b>barn-door</b>. There are three types of flagging: <dl><dt>normal flag</dt> <dd>Flagging foot stays on the same side (e.g. flagging right foot to the right side of the body).</dd> <dt>reverse inside-flag</dt> <dd>Flagging foot is crossed in front of the foot that is on a foothold.</dd> <dt>reverse outside-flag</dt> <dd>Flagging foot is crossed behind the foot that is on a foothold.</dd></dl>",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "flake",
+    "term": "flake",
+    "definition_cleaned": "A thin slab of rock detached from the main face offering a hold, although it may become detached.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "flash",
+    "term": "flash",
+    "definition_cleaned": "To ascend a route on the first attempt, but having obtained <b>beta</b>; with no beta, it is an <b>on-sight</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "font",
+    "term": "font",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>Fontainebleau grade</b>.</span></p> The French <b>grade</b> system for <b>bouldering</b>, which goes: 1, 2, 3, 4, 5, 6A, 6B, 6C, 7A, 7B, 7C, .... , to 9A; with the American <b>V-grade</b> system, is the most common worldwide boulder-grading system. Font grades are often confused with <b>French grade</b>s.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "foot_jam",
+    "term": "foot jam",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>heel-to-toe jam</b>.</span></p> A technique of <b>jamming</b> the foot into a large crack by twisting so that the heel and toes touch the sides.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "flapper",
+    "term": "flapper",
+    "definition_cleaned": "The tearing of skin and flesh due to friction with sharp or rough surfaces.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "fourteener",
+    "term": "fourteener",
+    "definition_cleaned": "A mountain summit that exceeds 14,000 feet (4,300 m), particularly one in the contiguous United States.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "freebase",
+    "term": "freeBASE",
+    "definition_cleaned": "<b>Free solo climbing</b> but with a <b>BASE jumping</b> parachute as a backup in the event of a fall.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "free_climbing",
+    "term": "free climbing",
+    "definition_cleaned": "Climbing without artificial <b>aids</b> other than for <b>protection</b>; can be done as <b>sport climbing</b> or <b>traditional climbing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "free_solo_climbing",
+    "term": "free solo climbing",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>free soloing</b>.</span></p> Climbing without any type of <b>aid</b> or any form of climbing <b>protection</b>.",
+    "image_file": "free_solo_climbing.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "french_free_climbing",
+    "term": "French free climbing",
+    "definition_cleaned": "The use of very basic <b>aid climbing</b> techniques (i.e. <b>A0-graded</b> aid techniques such as pulling on climbing protection) to bypass a short section that is not easily climbable, particularly used in <b>big wall climbing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "french_grade",
+    "term": "French grade",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>Sport climbing grade</b>, and <b>Plaisir grade</b></span></p> The French <b>grade</b> system for <b>sport climbing</b>, which goes: 5a, 5b, 5c, 6a, 6b, 6c, 7a, 7b, 7c, .... , to 9c; with the American <b>YDS</b> system, is the most common sport climbing grading system. French grades are often confused with <b>font</b> grades.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "french_start",
+    "term": "French start",
+    "definition_cleaned": "Moving off for the second hold without being established on the start holds, thus using the floor as a foothold. In most <b>competition climbing</b>, including <b>IFSC</b> events, starting a climb in this manner invalidates the attempt.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "frenchies",
+    "term": "frenchies",
+    "definition_cleaned": "An exercise used to develop lock-off strength consisting of pull-ups that stop with the elbows locked at angles between 20 and 160 degrees.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "friable",
+    "term": "friable",
+    "definition_cleaned": "Delicate and easily broken rock, or ice, often dangerously so.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "friction_climbing",
+    "term": "friction climbing",
+    "definition_cleaned": "A <b>rock-climbing technique</b> relying solely on the <b>friction</b> between the sloped rock and the sole of the <b>shoe</b>.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "friend",
+    "term": "Friend",
+    "definition_cleaned": "The name of Wild Country's <b>spring-loaded camming device</b> (SLCD) <b>protection</b>, and a generic name for SLCDs.",
+    "image_file": "friend.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "front_pointing",
+    "term": "front pointing",
+    "definition_cleaned": "An <b>ice climbing</b> technique that uses the frontmost-spikes of the <b>crampons</b> to ascend iced routes.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "fruit_boot",
+    "term": "fruit boot",
+    "definition_cleaned": "Type of lightweight shoe used in <b>mixed climbing</b> and <b>ice climbing</b> that have in-built <b>crampons</b>.",
+    "image_file": "fruit_boot.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "gaiters",
+    "term": "gaiters",
+    "definition_cleaned": "Mountaineering clothing equipment that is worn over the boots and lower leg to give added protection and waterproofing.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "gaston",
+    "term": "Gaston",
+    "definition_cleaned": "A climbing grip using one hand with the thumb down and elbow out, like a reverse <b>side pull</b>. The grip maintains friction against a hold by pressing outward toward the elbow. Named for <b>Gaston R\u00e9buffat</b>.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "gate_flutter",
+    "term": "gate flutter",
+    "definition_cleaned": "The unwelcome action of the gate on a <b>carabiner</b> opening during a fall.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "gendarme",
+    "term": "gendarme",
+    "definition_cleaned": "A rock-pinnacle or isolated rock-tower encountered along a ridge; often at the intersection of ridges.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "geneva_rappel",
+    "term": "Geneva rappel",
+    "definition_cleaned": "A modified <b>Dulfersitz</b> <b>rappel</b> using the hip and downhill arm for friction \u2014 less complex, but less friction and control.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "gigi",
+    "term": "GiGi",
+    "definition_cleaned": "A <b>belay plate device</b> for belaying a second from above that has auto-blocking; made by Kong. See also <i><b>Sticht plate</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "glissade",
+    "term": "glissade",
+    "definition_cleaned": "A voluntary act of sliding down a steep slope of snow using an <b>ice axe</b> for control.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "grade",
+    "term": "grade",
+    "definition_cleaned": "Classifications intended as an objective measure of the technical difficulty of a climbing route (including rock, ice, bouldering, mixed, and aid). The most widely used <b>lead climbing</b> grading systems are the <b>French sport climbing grades</b>, and the American <b>Yosemite Decimal System</b>; for <b>bouldering</b>, it is the <b>font</b> grade and the <b>V-grade</b> systems.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "grade_milestone",
+    "term": "grade milestone",
+    "definition_cleaned": "The <b>first free ascent</b> (FFA) by a <b>lead climber</b> of a new <b>climbing route</b> that sets a new grade level (e.g. the first-ever <b>9b</b> (5.15b) grade milestone was <b>Chris Sharma</b>'s FFA of <i><b>Jumbo Love</b></i> in 2008).",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "greenpoint",
+    "term": "greenpoint",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>greenpointing</b>.</span></p> Ascending a <b>sport climbing</b> route but only using <b>traditional climbing</b> protection (e.g. <i><b>Principle Hope</b></i>). See <i><b>redpoint</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "grigri",
+    "term": "Grigri",
+    "definition_cleaned": "A <b>belay device</b> invented and manufactured by <b>Petzl</b>; also used in <b>rope solo climbing</b>.",
+    "image_file": "grigri.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "gronked",
+    "term": "gronked",
+    "definition_cleaned": "Accidentally going off-route <b>leading</b> into a harder route; from the notorious climb <i>Gronk</i> in <b>Avon Gorge</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "ground_fall",
+    "term": "ground fall",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>decking</b>.</span></p> Where a <b>lead climber</b> falls and hits the ground, either because their <b>protection</b> failed (e.g. <b>zipper fall</b>), the <b>runout</b> was too great, or the <b>belayer</b> failed to arrest or hold the rope.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "half_ropes",
+    "term": "half ropes",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>half ropes</b>.</span></p> In <b>lead climbing</b> where two thinner ropes are used instead of a single rope to manage <b>rope drag</b>. Compare <i><b>twin ropes</b></i>.",
+    "image_file": "double_ropes.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "hand_jam",
+    "term": "hand jam",
+    "definition_cleaned": "A type of <b>jam</b> using the hand in a crack.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "hand_traverse",
+    "term": "hand traverse",
+    "definition_cleaned": "<b>Traversing</b> without any definitive footholds, i.e. no <b>edging</b>, <b>smearing</b> or <b>heelhooking</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "hangboard",
+    "term": "hangboard",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>finger board</b>.</span></p> A training device to increase the climber's arm and finger strength. See <i><b>campus board</b></i>.",
+    "image_file": "hangboard.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "hangdog",
+    "term": "hangdog",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>hangdogging</b>.</span></p> To hang on the rope, or a piece of <b>protection</b>, after falling, and then start reclimbing without returning to the ground.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "hanging_belay",
+    "term": "hanging belay",
+    "definition_cleaned": "Where the <b>belay station</b> of the <b>belayer</b> is suspended from the ground and tied to the wall via a fixed <b>anchor</b> point; used in <b>big wall climbing</b> and <b>multi-pitch climbing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "heel_spurs",
+    "term": "heel spurs",
+    "definition_cleaned": "Type of <b>crampon</b> attachment to the back of the heel used in <b>mixed climbing</b> to perform a <b>heel hook</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "high-altitude_cerebral_edema",
+    "term": "high-altitude cerebral edema",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>HACE</b>.</span></p> A severe and often fatal form of <b>altitude sickness</b> caused by physical exertion without sufficient oxygen.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "high-altitude_pulmonary_edema",
+    "term": "high-altitude pulmonary edema",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>HAPE</b>.</span></p> A severe form of <b>altitude sickness</b> caused by physical exertion without sufficient oxygen.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "harness",
+    "term": "harness",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>climbing harness</b>.</span></p> A sewn nylon webbing load-bearing device that is worn around the climber's waist and thighs, and to which the climbing rope, and other load-bearing climbing devices, can be attached.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "haul_bag",
+    "term": "haul bag",
+    "definition_cleaned": "A large hard-wearing bag for supplies and equipment that can be dragged up multi-pitch or <b>big wall</b> routes.",
+    "image_file": "haul_bag.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "headpoint",
+    "term": "headpoint",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>headpointing</b>.</span></p> <b>Top-roping</b> a <b>traditional climbing</b> route before <b>lead climbing</b> it to practice the moves. See <i><b>redpoint</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "headwall",
+    "term": "headwall",
+    "definition_cleaned": "A region at the top of a cliff or rock face that steepens dramatically.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "heel_hook",
+    "term": "heel hook",
+    "definition_cleaned": "Using the back of the heel to apply pressure on a <b>hold</b> for balance or for leverage.",
+    "image_file": "heel_hook.jpg",
+    "is_technique": true
+  },
+  {
+    "id": "heel-toe",
+    "term": "heel-toe",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>heel-toe cam</b>.</span></p> A combination of a <b>toe hook</b> and <b>heel hook</b> to hold the body onto the climbing route.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "hero_loop",
+    "term": "hero loop",
+    "definition_cleaned": "A short <b>runner</b> made of 5- to 8-mm <b>cord</b> tied in to a loop. Commonly used for self-belay during <b>rappel</b>, escaping a <b>belay</b>, and in <b>crevasse</b> rescue.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "hexcentric",
+    "term": "hexcentric",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also a <b>hex</b>.</span></p> A <b>protective device</b> consisting of an eccentric hexagonal <b>nut</b> attached to a wire loop.",
+    "image_file": "hexcentric.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "highball",
+    "term": "highball",
+    "definition_cleaned": "A <b>boulder problem</b> over circa 5\u201310-metre (16\u201333 ft) high, where falling is dangerous.",
+    "image_file": "highball.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "hip_belay",
+    "term": "hip belay",
+    "definition_cleaned": "A method of <b>belaying</b>, whereby the rope friction is increased by passing the rope around the hip of the belayer.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "hold",
+    "term": "hold",
+    "definition_cleaned": "A place to temporarily cling, grip, jam, press, or stand in the process of climbing a route. See <i><b>volume hold</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "hms_carabiner",
+    "term": "HMS carabiner",
+    "definition_cleaned": "A round-ended <b>carabiner</b> for use with a <b>Munter hitch</b> (from German for the hitch; <i>Halbmastwurfsicherung</i>).",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "hook",
+    "term": "hook",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>fifi hook</b> and <b>cam hook</b>.</span></p> A mechanical piece of <b>climbing equipment</b> used in <b>aid climbing</b>. See also <i><b>skyhook</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "hueco",
+    "term": "hueco",
+    "definition_cleaned": "A round hold consisting of a pocket in the rock with a positive lip, varying in size from a single finger (a \"mono\") to body-sized. The term comes from <b>Hueco Tanks</b> that is notable for huecos, the Spanish term for a \"hole\".",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "hueco_scale",
+    "term": "hueco scale",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>Hueco scale</b>.</span></p> A <b>grading system</b> for <b>bouldering</b> <b>problems</b> invented by <b>John Sherman</b>, which goes: V0, V1, V2, V3, V4, V5, V6, V7, ... , to V17. The V-scale and the French <b>font</b> scale are the most common boulder grading systems in use worldwide.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "ice_axe",
+    "term": "ice axe",
+    "definition_cleaned": "A multi-purpose tool used in <b>alpine climbing</b> that is a combination of an ice pick, <b>adze</b>, and pointed stick.",
+    "image_file": "ice_axe.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "ice_climbing",
+    "term": "ice climbing",
+    "definition_cleaned": "Ascending iced routes (e.g. waterfalls, and <b>couloirs</b>), with specialized equipment. See <i><b>mixed climbing</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "ice_hammer",
+    "term": "ice hammer",
+    "definition_cleaned": "A lightweight <b>ice axe</b> with a hammer and pick head on a short handle, and no spike. See also <i><b>rock hammer</b></i>.",
+    "image_file": "ice_hammer.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "ice_piton",
+    "term": "ice piton",
+    "definition_cleaned": "A long, wide, serrated <b>piton</b> that can be used for weak <b>protection</b> on ice.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "ice_screw",
+    "term": "ice screw",
+    "definition_cleaned": "Modern <b>protection</b> device in <b>ice climbing</b>, with the tubular ice screw as the strongest.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "ice_tool",
+    "term": "ice tool",
+    "definition_cleaned": "A specialized elaboration of the modern <b>ice axe</b> that is used in modern advanced <b>ice climbing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "ifsc",
+    "term": "IFSC",
+    "definition_cleaned": "Acronym for the international body that organises and regulates <b>competition climbing</b>. See <i><b>UIAA</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "indoor_climbing",
+    "term": "indoor climbing",
+    "definition_cleaned": "Rock climbing that takes place on artificial <b>climbing wall</b>s that are set up inside buildings.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "in-situ",
+    "term": "in-situ",
+    "definition_cleaned": "Denotes <b>protection</b> that is installed on the route (e.g. \"there is a <b>piton</b> and <b>sling</b> \"in-situ\" at the <b>crux</b>\").",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "isolation_zone",
+    "term": "isolation zone",
+    "definition_cleaned": "In <b>competition climbing</b>, an area where competitiors are kept to prevent them getting <b>beta</b> on the upcoming routes.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "jamming",
+    "term": "jamming",
+    "definition_cleaned": "Wedging a body part into a crack, including <b>finger jam</b>, <b>foot jam</b>, <b>hand jam</b>, and <b>chest jam</b>.",
+    "image_file": "jamming.jpg",
+    "is_technique": true
+  },
+  {
+    "id": "jib",
+    "term": "jib",
+    "definition_cleaned": "A very small foothold, large enough for the big toe, relying heavily on friction to support the weight.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "jug",
+    "term": "jug",
+    "definition_cleaned": "A large handhold that is very easy to use.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "jumar",
+    "term": "jumar",
+    "definition_cleaned": "A type of mechanical <b>ascender</b>, and the generic term for ascending a <b>fixed rope</b> using a mechanical ascender.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "karabiner",
+    "term": "karabiner",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>twist-lock carabiner</b>, <b>bent-gate carabiner</b>.</span></p> An aluminum loop with a spring-loaded gate used to attach various load-bearing climbing devices together.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "klemheist_knot",
+    "term": "Klemheist knot",
+    "definition_cleaned": "An alternative to the <b>Prusik knot</b>, useful when the climber is short of cord but has plenty of webbing.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "knee_bar",
+    "term": "knee bar",
+    "definition_cleaned": "Wedging a knee against a hold in such a way as to allow the other limbs to be released and rested.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "knee_drop",
+    "term": "knee drop",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>egyptian</b>.</span></p> <p class=\"glossary-hatnote\"><span>Also <b>knee drop</b>.</span></p><p class=\"glossary-hatnote\"><span>Also <b>lolotte</b>.</span></p> An advanced <b>rock-climbing technique</b> where the knee is dropped downwards to twist the hips\u2014and the centre of gravity\u2014closer to the rock face, thus increasing the amount of upward reach and torque available to the climber; the unique stresses on the knee can lead to serious injuries.",
+    "image_file": "egyptian.jpg",
+    "is_technique": true
+  },
+  {
+    "id": "knee_pad",
+    "term": "knee pad",
+    "definition_cleaned": "An artificial pad that is worn on the lower thigh to protect a climber when performing a <b>knee bar</b>; initially controversial as they raised technical standards, but came to be accepted like climbing shoes.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "lache",
+    "term": "lache",
+    "definition_cleaned": "Modern climbing and <b>parkour</b> movement (most commonly used in <b>bouldering</b>) where the climber dynamically progresses laterally by use of momentum gainned by swinging with feet and legs, and then letting go with the hands (from the <b>French</b> <i>l\u00e2cher</i>; let go).",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "ladder",
+    "term": "ladder",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>aluminum ladder</b>.</span></p> Lightweight rigid aluminum ladders are used in <b>expedition style</b> mountaineering to cross crevasses or on difficult sections as a form of <b>aid climbing</b> support (this can also be done with flexible <i><b>bachar ladder</b>s</i>). See also <i><b>aider</b></i>.",
+    "image_file": "ladder.JPG",
+    "is_technique": false
+  },
+  {
+    "id": "lanyard",
+    "term": "lanyard",
+    "definition_cleaned": "A Y-shaped piece of <b>protection</b> equipment used in <b>via ferrata</b> climbing that attaches the <b>harness</b> to the fixed steel cables. Lanyards often attach to <b>energy absorber</b>s given the higher <b>fall factor</b> of via ferrata climbing.",
+    "image_file": "lanyard.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "laybacking",
+    "term": "laybacking",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>liebacking</b>.</span></p> Climbing an edge by <b>side-pulling</b> with both hands and using opposing friction for the feet.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "lead_climbing",
+    "term": "lead climbing",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>leading</b>.</span></p> A form of climbing in which a <b>lead climber</b> clips their <b>belay</b> rope into <b>protection</b> equipment as they ascend.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "lead_climber",
+    "term": "lead climber",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>leader</b>.</span></p> The individual ascending the route in <b>lead climbing</b>; the other person is the <b>belayer</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "leader_fall",
+    "term": "leader fall",
+    "definition_cleaned": "A <b>lead climber</b> fall while <b>lead climbing</b>; will be <i>at least</i> twice the distance to the last piece of <b>protection</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "leavittation",
+    "term": "Leavittation",
+    "definition_cleaned": "A technique used to climb <b>off-width</b> cracks pioneered in the late 1970s by Randy Leavitt and <b>Tony Yaniro</b> that uses alternating hand-fist stacks and leg-calf locks; helpful for resting, and when placing <b>protection</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "liquid_chalk",
+    "term": "liquid chalk",
+    "definition_cleaned": "A liquid form of <b>climbing chalk</b> but with a longer hold time.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "live_rope",
+    "term": "live rope",
+    "definition_cleaned": "In <b>lead climbing</b>, the segment of the rope between the <b>lead climber</b> and the <b>belayer</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "lock-off",
+    "term": "lock-off",
+    "definition_cleaned": "A climber holding a fixed position with one bent arm, usually while clipping or reaching for another hold with their other arm, or resting. Contrast with <b>dead hang</b>.",
+    "image_file": "lock-off.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "lolotte",
+    "term": "lolotte",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>egyptian</b>.</span></p> <p class=\"glossary-hatnote\"><span>Also <b>knee drop</b>.</span></p><p class=\"glossary-hatnote\"><span>Also <b>lolotte</b>.</span></p> An advanced <b>rock-climbing technique</b> where the knee is dropped downwards to twist the hips\u2014and the centre of gravity\u2014closer to the rock face, thus increasing the amount of upward reach and torque available to the climber; the unique stresses on the knee can lead to serious injuries.",
+    "image_file": "egyptian.jpg",
+    "is_technique": true
+  },
+  {
+    "id": "lower-off",
+    "term": "lower-off",
+    "definition_cleaned": "When a <b>lead climber</b> is lowered down the route by the <b>belayer</b> holding their weight on the <b>belay device</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "low_zone",
+    "term": "low zone",
+    "definition_cleaned": "In competition bouldering, a marked hold somewhere between the start and zone. It is either worth some number of points (less than the zone) or used as a tiebreaker.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "m-grade",
+    "term": "M-grade",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>mixed climbing grades</b>.</span></p> Part of the <b>mixed climbing</b> system for <b>grading</b> the technical difficulty of mixed climbing routes, which goes: M1, M2, M3, M4, M5, M6, and up to M14. See also <i><b>D-grade</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "mantel_move",
+    "term": "mantel move",
+    "definition_cleaned": "Moving onto a shelf of rock by pressing down on it with the palms until the climber can stand on the \"mantel\" (i.e. the same action as leaving from the side of a pool).",
+    "image_file": "mantel_move.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "mixed_climbing",
+    "term": "mixed climbing",
+    "definition_cleaned": "A type of climbing that involves using <b>ice climbing</b> tools on iced-up or snow-covered rock surfaces; <b>mixed climbing techniques</b> are used in <i><b>dry-tooling</b></i> and in <i><b>alpine climbing</b></i>.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "mono",
+    "term": "mono",
+    "definition_cleaned": "A climbing hold, typically a <b>pocket</b> or a <b>hueco</b>, which only has enough room for one finger.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "moving_together",
+    "term": "moving together",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>running belay</b>.</span></p> An advanced technique in which two climbers move simultaneously upward, with the <b>leader</b> placing <b>protection</b> that the <b>second</b> removes as they advance. A <b>protection capture device (PCD)</b> may also be used.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "multi-pitch_climbing",
+    "term": "multi-pitch climbing",
+    "definition_cleaned": "A climb that has more than one <b>pitch</b>; a <b>big wall</b> route involves so many pitches, it takes over a day.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "munter_hitch",
+    "term": "Munter hitch",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>Italian hitch</b> or <b>friction hitch</b>.</span></p> A simple <b>hitch</b> used for <b>belaying</b> without a mechanical <b>belay device</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "national_climbing_classification_system",
+    "term": "National Climbing Classification System",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>NCCS</b></span></p> <p class=\"glossary-hatnote\"><span>Also <b>commitment grade</b></span></p> A North American grading system used mainly in <b>big wall climbing</b> and <b>alpine climbing</b>; goes from I, II, III ... to VII.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "n\u00e9v\u00e9",
+    "term": "n\u00e9v\u00e9",
+    "definition_cleaned": "Permanent granular ice formed by repeated freeze-thaw cycles.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "new_wave",
+    "term": "new wave",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>aid climbing grade</b>.</span></p> The technical difficulty <b>grading</b> system for <b>aid climbing</b> (both for \"original\" and an adapted version for \"new wave\"), which goes: A0, A1, A2, A3, A4, A5 and up to A6 (for \"new wave\"). See <i><b>C-grade</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "no-hand_rest",
+    "term": "no-hand rest",
+    "definition_cleaned": "An entirely leg-supported resting position during climbing that does not require hands on the rock.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "normal_route",
+    "term": "normal route",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>voie normale</b></span></p> <p class=\"glossary-hatnote\"><span>Also <b>Normalweg</b></span></p> The easiest and most frequently used route for ascending and descending a climb.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "nunatak",
+    "term": "nunatak",
+    "definition_cleaned": "A mountain or rock formation that protrudes through an ice field.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "nut",
+    "term": "nut",
+    "definition_cleaned": "A metal wedge attached to a wire loop that is inserted into cracks for <b>protection</b>. See <i><b>hexcentric</b></i>.",
+    "image_file": "nut.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "nut_key",
+    "term": "nut key",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>nut tool</b>.</span></p> See <i><b>cleaning tool</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "off_belay",
+    "term": "off belay",
+    "definition_cleaned": "American <b>climbing command</b> when requesting that the <b>belayer</b> remove <b>belay</b> equipment from the climbing rope (e.g. when cleaning top <b>protection</b> from a lead route). Replied to with \"<b>belay off</b>\".",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "off-width",
+    "term": "off-width",
+    "definition_cleaned": "A crack that is too wide for effective hand or foot <b>jams</b> but is not as large as a <b>chimney</b>. See <b>big bro</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "on_belay",
+    "term": "on belay",
+    "definition_cleaned": "American <b>climbing command</b> when they are ready to be <b>belayed</b>. Replied to with \"<b>belay on</b>\".",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "on-sight",
+    "term": "on-sight",
+    "definition_cleaned": "To ascend a route on the first attempt, with no prior <b>beta</b>; with beta, it is a <b>flash</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "open_book",
+    "term": "open book",
+    "definition_cleaned": "An inside angle in the rock. See also <i><b>dihedral</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "open_project",
+    "term": "open project",
+    "definition_cleaned": "A route that was <b>bolt</b>ed by someone (e.g. they bought and installed the bolts) but who was unsuccessful in <b>redpoint</b>ing it, and it is now considered to be \"open\" to any climber to try; sometimes the original bolter will leave colored tape on the first bolt(s) to note the route is \"not open\".",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "overhang",
+    "term": "overhang",
+    "definition_cleaned": "A section of rock or ice that is angled beyond the vertical. See <i><b>roof</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "paddling",
+    "term": "paddling",
+    "definition_cleaned": "A multi-move <b>dyno</b> where the climber must move quickly through a sequence of intermediate hand holds (neither of which can hold the climber for any period), with their arms mimicking a paddling action and their feet usually in mid-air, before getting to a secure position. See also <i><b>campusing</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "passive_protection",
+    "term": "passive protection",
+    "definition_cleaned": "Type of <b>protection</b> that remains static during a fall; opposite of <b>active protection</b>. See <i><b>nut</b>s</i> and <i><b>hexcentric</b>s</i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "peak-bagging",
+    "term": "peak-bagging",
+    "definition_cleaned": "To systematically attain every peak of a designated class of summits (e.g. <b>eight-thousanders</b>), sometimes under prescribed conditions (e.g. in winter), and/or in a prescribed climbing style (e.g. no <b>supplementary oxygen</b>).",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "peg",
+    "term": "peg",
+    "definition_cleaned": "A <b>piton</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "pendulum",
+    "term": "pendulum",
+    "definition_cleaned": "1. Swinging on a taut anchored rope to reach the next hold in a <b>pendulum traverse</b>.<br/><br/>2. A swing experienced during a fall caused by the last piece of <b>protection</b> being far to one side.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "permadraw",
+    "term": "permadraw",
+    "definition_cleaned": "A <b>quickdraw</b> but made from a steel cable with steel <b>carabiner</b>s that is permanently fixed to the <b>bolt</b>; longer wearing than aluminum quickdraws, and climbers do not need to retrieve them after a climb.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "personal_anchor_system",
+    "term": "personal anchor system",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>PAS</b>.</span></p> An adjustable attachment point from a climber to a fixed <b>anchor</b>, give them flexibility to perform other tasks.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "picket",
+    "term": "picket",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>snow picket</b>.</span></p> A long, tubular rod driven into the snow to provide a makeshift <b>anchor</b>.",
+    "image_file": "picket.JPG",
+    "is_technique": false
+  },
+  {
+    "id": "pinch_hold",
+    "term": "pinch hold",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>pinch</b>.</span></p> A hold which must be \"pinched\" between the fingers to use it.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "pinkpoint",
+    "term": "pinkpoint",
+    "definition_cleaned": "<b>Lead climbing</b> where the <b>protection</b> (e.g. <b>quickdraw</b>s) are pre-installed. See also <i><b>greenpoint</b></i> and <i><b>redpoint</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "pitch",
+    "term": "pitch",
+    "definition_cleaned": "The climbing route between two <b>belay</b> points with a \"full pitch\" being the length of the rope, circa 50 metres (160 ft).",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "piton",
+    "term": "piton",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>angle</b>, <b>beak</b>, <b>bong</b>, <b>knifeblade</b>, <b>lost arrow</b>.</span></p> A flat or angled metal blade of steel for <b>protection</b> that incorporates a clipping hole for a <b>carabiner</b> or a ring in its body that is <b>hammered</b> into cracks; comes in a wide range of designs and types for different crack types and widths; common in <b>aid climbing</b>, <b>big wall climbing</b>, and <b>alpine climbing</b>. See also <i><b>RURP</b></i>.",
+    "image_file": "piton.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "piton_catcher",
+    "term": "piton catcher",
+    "definition_cleaned": "A clip-on string fastened to a <b>piton</b> when inserting or removing, so as to avoid loss.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "plunge_step",
+    "term": "plunge step",
+    "definition_cleaned": "An aggressive step pattern for descending on hard or steep-angle snow.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "pogo",
+    "term": "pogo",
+    "definition_cleaned": "A dynamic, momentum-based, and often diagonal, move where one leg swings wildly to generate upward force, enabling the climber to reach distant holds with reduced upper body strain.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "poop_tube",
+    "term": "poop tube",
+    "definition_cleaned": "A <b>PVC</b> tube-shaped container for carrying out human feces during multi-day or <b>big wall</b> climbs.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "portaledge",
+    "term": "portaledge",
+    "definition_cleaned": "A lightweight foldaway tent platform used in <b>big wall climbing</b> to create a rest point on a sheer rock face.",
+    "image_file": "portaledge.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "positive",
+    "term": "positive",
+    "definition_cleaned": "A <b>hold</b> or part of a hold with a surface facing upwards, or away from the direction it is pulled, facilitating use. A positive hold is the opposite of a <b>sloper</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "pressure_breathing",
+    "term": "pressure breathing",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>Whittaker wheeze</b>.</span></p> Forcefully exhaling to facilitate O<sub>2</sub>/CO<sub>2</sub> exchange at altitude.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "problem",
+    "term": "problem",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>bouldering problem</b> or <b>boulder problem</b>.</span></p> Used in <b>bouldering</b> to describe the sequence of moves to be overcome.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "progress_capture_device",
+    "term": "progress capture device",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>PCD</b>.</span></p> A mechanical climbing device that allows the rope to move through it in only one direction, examples being the Petzl Micro Traxion or the Camp Lift; PCDs are used in many climbing tasks including gear hauling, <b>belaying</b>, <b>top rope solo climbing</b> and in <b>simul-climbing</b>. See also <i><b>Self-locking device</b></i>.",
+    "image_file": "progress_capture_device.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "project",
+    "term": "project",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>projecting</b>.</span></p> An attempt over time to climb a new (worldwide or personal) <b>route</b> or boulder <b>problem</b> as a \"project\".",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "protection",
+    "term": "protection",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>pro</b>.</span></p> <p class=\"glossary-hatnote\"><span>Also <b>gear</b>.</span></p> Equipment for arresting <b>lead climber</b> falls, or to create <b>anchors</b> for <b>abseil</b>s or <b>belay</b>s. Examples are <b>passive</b> (<b>bolt</b>s, <b>copperhead</b>s, <b>hexcentric</b>s, <b>ice screw</b>s, <b>nut</b>s, <b>quickdraw</b>s, and <b>skyhook</b>s), and <b>active</b> (<b>cam</b>s, <b>friend</b>s, <b>tricam</b>s).",
+    "image_file": "protection.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "prusik",
+    "term": "Prusik",
+    "definition_cleaned": "A knot used for ascending a <b>fixed rope</b>, named after Austrian <b>Karl Prusik</b>, who developed this knot in 1931.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "pulley",
+    "term": "pulley",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>climbing pulley</b>.</span></p> The lightweight mechanical pully that has wide application in climbing including <b>big wall climbing</b> (especially gear hauling) and <b>crevasse rescue</b> and in <b>tyrolean traverseing</b>.",
+    "image_file": "pulley.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "pump",
+    "term": "pump",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>pumped</b>.</span></p> The accumulation of metabolic waste products in the forearm(s) so that holding a basic grip becomes impossible.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "quickdraw",
+    "term": "quickdraw",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>draw</b>, and <b>extender</b>.</span></p> A piece of climbing <b>protection</b> that is used to attach a running rope to an <b>anchor</b> or a <b>bolt</b>. See <i><b>permadraw</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "quicklink",
+    "term": "quicklink",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b><b>maillon</b></b> and <b>maillon rapide</b>.</span></p> A screw-type oval-shaped stainless steel <b>carabiner</b> which is smaller than the normal carabiner.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "rack",
+    "term": "rack",
+    "definition_cleaned": "<br/><br/>1. Name given to the collective set of <b>protection</b> equipment carried by a <b>lead climber</b> up a climb.<br/><br/>2. A type of heavy-duty \"all-weather\" <b>descender</b> known as an \"abseil rack\" or a \"rappel rack\", consisting of metal bars on a U-shaped chassis, which is frequently used in <b>caving</b>. An alternative heavier device is a \"whaletail\" (also \"whale tail\") which is a machined block often used by rescuers.",
+    "image_file": "rack.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "rappel",
+    "term": "rappel",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>rappelling</b>.</span></p> A technique by which a climber descends via a <b>fixed rope</b> that is firmly attached to a fixed <b>anchor</b> point, which is also known as an \"abseil station\". See <i><b>tat</b></i> and <i><b>cord</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "rating",
+    "term": "rating",
+    "definition_cleaned": "Classifications intended as an objective measure of the technical difficulty of a climbing route (including rock, ice, bouldering, mixed, and aid). The most widely used <b>lead climbing</b> grading systems are the <b>French sport climbing grades</b>, and the American <b>Yosemite Decimal System</b>; for <b>bouldering</b>, it is the <b>font</b> grade and the <b>V-grade</b> systems.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "re-belay",
+    "term": "re-belay",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>rebelay</b>.</span></p> Secondary or intermediate fixed <b>anchor point(s)</b> along the length of a <b>fixed rope</b> (i.e. in addition to the main <b>anchor</b> at the top of the fixed rope) that is used to avoid edges that could increase rope wear.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "rebolting",
+    "term": "rebolting",
+    "definition_cleaned": "The replacement of older <b>bolts</b> on an existing bolted <b>sport climbing</b> route.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "redpoint",
+    "term": "redpoint",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>redpointing</b>.</span></p> <b>Free climbing</b> a route by <b>leading</b> it after having failed it or practiced it beforehand (e.g. by <b>hangdogging</b>, <b>headpoint</b>ing, or <b>top roping</b>). A route climbed on the first-ever attempt (and no practice), it is an <b>onsight</b> or a <b>flash</b>. See <i><b>first free ascent</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "removable_bolt",
+    "term": "removable bolt",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>RB</b>.</span></p> A removable <b>protection</b> <b>bolt</b>, similar in concept to a sliding <b>nut</b>, but shaped to fit into a drilled hole; popular in <b>aid climbing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "rest_step",
+    "term": "rest step",
+    "definition_cleaned": "An energy-saving mountaineering technique where the unweighted (uphill) leg is rested between each forward step, by \"locking\" the knee of the rear leg.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "retro-bolting",
+    "term": "retro-bolting",
+    "definition_cleaned": "The addition of <b>bolts</b> to a route that has already been ascended using <b>traditional climbing</b> <b>protection</b>. The technique is controversial, with ethical debate on the issues of improving climber safety versus protecting the integrity of the original traditional climbing challenge.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "rigging_plate",
+    "term": "rigging plate",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>rigging board</b> and <b>bat plate</b>.</span></p> A light metal plate with several holes that can be used as a multi-anchor device that several items can be attached to at a <b>belay station</b>, notable versions include the Petzl PAW.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "ripped",
+    "term": "ripped",
+    "definition_cleaned": "Term to denote when a piece of <b>protection</b> failed and \"ripped-out\" of the rock. See <i><b>zipper fall</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "rivet_hanger",
+    "term": "rivet hanger",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>plate hanger</b>, <b>wire hanger</b>, or <b>cinch hanger</b>.</span></p> A piece of <b>aid climbing</b> equipment used by the <b>lead climber</b> to attach to <b>bolt runner</b> rivets in the rock. See also <i><b>carrot bolt</b></i>.",
+    "image_file": "rivet_hanger.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "rock_hammer",
+    "term": "rock hammer",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>wall hammer</b>.</span></p> A lightweight hammer with a short handle used for inserting <b>piton</b>s, <b>bolt</b>s, and <b>copperhead</b>s in <b>aid climbing</b> and <b>big wall climbing</b>. See also <i><b>ice hammer</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "rockover_move",
+    "term": "rockover move",
+    "definition_cleaned": "A <b>rock-climbing technique</b> where the body weight is transferred (or \"rocked-over\") to the raised up-hill leg to reach a higher hold.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "rodeo_clipping",
+    "term": "rodeo clipping",
+    "definition_cleaned": "To clip into the first piece of <b>protection</b> from the ground by swinging a loop of rope so that it is caught by a pre-placed <b>carabiner</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "roof",
+    "term": "roof",
+    "definition_cleaned": "An <b>overhang</b> that is so steep, it becomes horizontal.",
+    "image_file": "roof.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "rope_bag",
+    "term": "rope bag",
+    "definition_cleaned": "Specialist lightweight but hardwearing bag for carrying a <b>climbing rope</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "rope_drag",
+    "term": "rope drag",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>rope drag</b>.</span></p> Friction from the rope running over the rock and through the lower <b>protection</b>. See <i><b>slack</b></i> and <i><b>double ropes</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "rope_jumping",
+    "term": "rope jumping",
+    "definition_cleaned": "Jumping a full rope-length from the top of a rock face with the rope attached to a fixed <b>anchor</b> like a <b>bungee cord</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "rope_team",
+    "term": "rope team",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>running belay</b>.</span></p> An advanced technique in which two climbers move simultaneously upward, with the <b>leader</b> placing <b>protection</b> that the <b>second</b> removes as they advance. A <b>protection capture device (PCD)</b> may also be used.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "rose_move",
+    "term": "rose move",
+    "definition_cleaned": "A move in which the crossing arm goes behind the other arm and is so far extended that the body is forced to twist until it ends up facing away from the rock. It was introduced by <a class=\"new\" href=\"/w/index.php?title=Antoine_Le_Menestrel&amp;action=edit&amp;redlink=1\" title=\"Antoine Le Menestrel (page does not exist)\">Antoine Le Menestrel</a><span> [<a class=\"extiw\" href=\"https://fr.wikipedia.org/wiki/Antoine_Le_Menestrel\" title=\"fr:Antoine Le Menestrel\">fr</a>]</span> to climb a route in <b>Buoux</b> called <i>La rose et le vampire</i> <b>8b</b> (5.13d) in 1985.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "route",
+    "term": "route",
+    "definition_cleaned": "A path by which a climber reaches the top of a mountain, a rock face or obstacle, or an ice-covered face or obstacle.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "rp",
+    "term": "RP",
+    "definition_cleaned": "A small <b>protection</b> <b>nut</b> on a wire for tiny cracks with marginal holding power; named after Roland Pauligk.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "runner",
+    "term": "runner",
+    "definition_cleaned": "1. In the US, a <b>sling</b> is made from nylon-blend materials, used by climbers for a multitude of purposes.<br/><br/>2. In the UK, any item of <b>protection</b> placed by the <b>lead climber</b> to reduce the length of a fall.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "runout",
+    "term": "runout",
+    "definition_cleaned": "In a term in <b>lead climbing</b> for the distance between points of good <b>protection</b>; in the <b>grading of climbs</b>, routes with long runouts have higher adjectival \"<b>E</b>\" grade (British system), or an <b>R/X</b>or even <b>X</b> suffix (<b>American system</b>). See <i><b>ground fall</b></i>.",
+    "image_file": "runout.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "rurp",
+    "term": "RURP",
+    "definition_cleaned": "A miniature, postage stamp-sized chrome-moly square <b>piton</b>, tied to a wire or rope and <b>hammered</b> into cracks; created by <b>Yvon Chouinard</b> in 1960 for extreme <b>aid climbing</b> routes in <b>Yosemite</b>; acronym for <i>realized ultimate reality piton</i>.",
+    "image_file": "rurp.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "r/x",
+    "term": "R/X",
+    "definition_cleaned": "A suffix used in the <b>yosemite decimal system</b> for <b>traditional climbing</b> routes that have poor possibilities for <b>protection</b> where any fall could be serious (e.g. <i><b>Master's Edge</b></i>). See <i><b>X</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "s-grade",
+    "term": "S-grade",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>deep-water soloing grades</b>.</span></p> Part of the <b>deep-water soloing</b> system for <b>grading</b> the objective danger difficulty of DWS climbing routes, which goes: S0, S1, S2, and S3. See also <i><b>X</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "saddle",
+    "term": "saddle",
+    "definition_cleaned": "A high pass between two peaks, larger than a <b>col</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "sandbag",
+    "term": "sandbag",
+    "definition_cleaned": "A rock climb with a much lower official climbing <b>grade</b> than probably deserved; sometimes due to a \"trick-move\" at the <b>crux</b> that once learned, does make the route easier; or due to overly conservative grading.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "scrambling",
+    "term": "scrambling",
+    "definition_cleaned": "A type of climbing somewhere between hiking and graded rock climbing; involves climbing the easiest <b>grades</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "screamer",
+    "term": "screamer",
+    "definition_cleaned": "1. Shock absorbing sling designed to reduce peak loads in a climbing system. Very commonly used for winter / ice climbing. Made of a nylon <b>webbing</b> structure consisting of one large loop sewn in multiple places to make a shorter length.<br/><br/>2. A British term for a large <b>whipper</b> fall.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "scree",
+    "term": "scree",
+    "definition_cleaned": "Small, loose rocks, at the base of a cliff or slope; distinguished from <b>talus</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "screw_on",
+    "term": "screw on",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>foot chip</b>, <b>chip</b>, or <b>micro</b>.</span></p> A small climbing <b>hold</b> screwed onto the wall on a <b>climbing wall</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "second",
+    "term": "second",
+    "definition_cleaned": "A climber who follows the <b>lead climber</b>; often acts as the <b>belayer</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "self-arrest",
+    "term": "self-arrest",
+    "definition_cleaned": "Using the pick of an <b>ice axe</b> to arrest a fall, or to control a <b>glissade</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "self-belay",
+    "term": "self-belay",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>self-belaying</b>.</span></p> The act of using a mechanical device for <b>belaying</b> in <b>solo climbing</b>. See <i><b>self-locking device</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "self-locking_device",
+    "term": "self-locking device",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>SLD</b>.</span></p> A device used in <b>solo climbing</b>, and particularly <b>rope solo climbing</b>, to automatically arrest falls. Examples include Wren's Silent Partner. See also <i><b>progress capture device</b></i>. Compare <i><b>automatic belay</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "self_rescue",
+    "term": "self rescue",
+    "definition_cleaned": "Actions taken by a climber(s) to execute their own rescue or recovery from a difficult or dangerous situation.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "send",
+    "term": "send",
+    "definition_cleaned": "To <b>free climb</b> a <b>route</b>, via an <b>on-sight</b>, <b>flash</b>, or <b>redpoint</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "serac",
+    "term": "serac",
+    "definition_cleaned": "A large tower of ice on the surface of a glacier; falling seracs are a serious hazard to mountaineers.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "serene",
+    "term": "SERENE",
+    "definition_cleaned": "Acronym for building <b>anchors</b>; stands for <i>Strong, Equalised, Redundant, Efficient, No Extension</i>. See also <i><b>ERNEST</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "sewing-machine_leg",
+    "term": "sewing-machine leg",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>scissor leg</b>, <b>Elvis legs</b>, or <b>disco knee</b>.</span></p> The involuntary vibration of the leg due to fatigue and/or panic and stress.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "shadow_match",
+    "term": "shadow match",
+    "definition_cleaned": "A rock climbing move to quickly switch hands on a <b>hold</b> that can only fit one hand at a time.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "sharp_end",
+    "term": "sharp end",
+    "definition_cleaned": "The end of the rope that is attached to the <b>lead climber</b>, to denote the more serious activity they are undertaking compared to the <b>belayer</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "short_fixing",
+    "term": "short fixing",
+    "definition_cleaned": "An advanced <b>big wall</b> <b>climbing technique</b> where the <b>lead climber</b> fixes the rope at an anchor to allow the <b>second</b> to ascend using <b>jumar</b>s, while the leader climber then continues to ascend in a <b>rope solo climbing</b> fashion; unlike <b>simul climbing</b>, neither is <b>belay</b>ing the other.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "side_pull",
+    "term": "side pull",
+    "definition_cleaned": "A vertical <b>hold</b> that needs to be gripped with a sideways pull towards the body.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "simul_climbing",
+    "term": "simul climbing",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>running belay</b>.</span></p> An advanced technique in which two climbers move simultaneously upward, with the <b>leader</b> placing <b>protection</b> that the <b>second</b> removes as they advance. A <b>protection capture device (PCD)</b> may also be used.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "single-rope_technique",
+    "term": "single-rope technique",
+    "definition_cleaned": "The use of a single rope where one or both ends of the rope are attached to fixed <b>anchor</b> points. See <b>fixed rope</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "sit_start",
+    "term": "sit start",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>sit down start</b> or <b>SDS</b></span></p> <b>Bouldering</b> term for a route that must be started from a seated position on the ground with hands and feet on prescribed holds; acronyms are <i>SS</i> (sit-start), <i>SDS</i> (sit-down-start), or <i>assis</i> (french); concept invented by John Yablonski.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "skyhook",
+    "term": "skyhook",
+    "definition_cleaned": "A metal <b>hook</b> inserted on a horizontal <b>hold</b> for <b>protection</b> in <b>traditional climbing</b>, or in <b>aid climbing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "slab",
+    "term": "slab",
+    "definition_cleaned": "A low-angle \u2014 significantly less than vertical \u2014 rock face that requires <b>slab climbing</b> techniques.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "slab_climbing",
+    "term": "slab climbing",
+    "definition_cleaned": "A type of climbing on <b>slab</b>s that usually emphasizes balance, footwork, and <b>smearing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "slack",
+    "term": "slack",
+    "definition_cleaned": "In <b>lead climbing</b> and in <b>top rope climbing</b>, it is the amount of <i>additional rope</i> that the <b>belayer</b> has allowed; slack increases the distance of any fall before the <b>protection</b> begins to hold the rope, but is needed to reduce <b>rope drag</b> or <b>aid</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "sling",
+    "term": "sling",
+    "definition_cleaned": "A closed loop of <b>webbing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "sloper",
+    "term": "sloper",
+    "definition_cleaned": "A <b>hold</b> where the surface slopes down toward the ground, with very little <b>positive</b> surface or lip.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "smearing",
+    "term": "smearing",
+    "definition_cleaned": "To make use of friction on the sole of the <b>climbing shoe</b> in the absence of good footholds.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "snarg",
+    "term": "snarg",
+    "definition_cleaned": "A type of tubular <b>ice screw</b> that is inserted by hammering with an <b>ice hammer</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "snow_cave",
+    "term": "snow cave",
+    "definition_cleaned": "A temporary shelter constructed by digging out snow to form a cave.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "snow_fluke",
+    "term": "snow fluke",
+    "definition_cleaned": "An angled aluminum plate attached to a cable or rope that is buried into the snow to create a <b>deadman anchor</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "solo_climbing",
+    "term": "solo climbing",
+    "definition_cleaned": "When the climber is alone (with no <b>second</b>); if also without <b>protection</b> is <b>free solo climbing</b>. See <b>rope solo climbing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "speed_climbing",
+    "term": "speed climbing",
+    "definition_cleaned": "A <b>competition climbing</b> discipline where competitors race in pairs up a standardized <b>climbing wall</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "spinner",
+    "term": "spinner",
+    "definition_cleaned": "In <b>indoor climbing</b>, a <b>hold</b> that is not secure and spins in place when weight is applied.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "splitter",
+    "term": "splitter",
+    "definition_cleaned": "A crack with perfectly parallel sides, often in an otherwise blank face.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "sport_climbing",
+    "term": "sport climbing",
+    "definition_cleaned": "A style of <b>lead climbing</b> where the <b>protection</b> is via pre-placed fixed <b>bolt</b>s; opposite of <b>traditional climbing</b>. Confusingly, <b>competition climbing</b> (which includes bolted lead climbing, but also free solo bouldering and top-roped speed climbing) is sometimes called \"sport climbing\".",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "spotting",
+    "term": "spotting",
+    "definition_cleaned": "People standing beneath a <b>lead climber</b> or <b>bouldering</b> climber ready to absorb the energy of a <b>ground fall</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "sprag",
+    "term": "sprag",
+    "definition_cleaned": "A type of hand position where the fingers and thumb are opposed in a tiny crack.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "spring-loaded_camming_device",
+    "term": "spring-loaded camming device",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>SLCD</b></span></p> A type of active <b>protection</b> device used in <b>crack climbing</b>. See <i><b>cam</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "static_rope",
+    "term": "static rope",
+    "definition_cleaned": "A non-elastic <b>climbing rope</b> used for <b>abseiling</b> or <b>jumaring</b> (as a <b>fixed rope</b>), but not <b>lead climbing</b>. Compare <i><b>dynamic rope</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "stein_pull",
+    "term": "stein pull",
+    "definition_cleaned": "A technique in <b>mixed climbing</b> and <b>dry-tooling</b> where the ice axe is inverted and the blade wedged into a crack above the climber's head, who then pulls down on the handle of the axe to gain upward momentum. See also <i><b>undercling pull</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "stemming",
+    "term": "stemming",
+    "definition_cleaned": "Technique for climbing opposing corners by pushing in opposite directions with the feet and hands. See <b>chimneying</b>.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "step_cutting",
+    "term": "step cutting",
+    "definition_cleaned": "Scooping steps out of snow or ice with the adze of an <b>ice axe</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "step_kicking",
+    "term": "step kicking",
+    "definition_cleaned": "Scooping and stamping steps out of soft snow with the feet.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "sticht_plate",
+    "term": "Sticht plate",
+    "definition_cleaned": "A <b>belay device</b> consisting of a flat plate with a pair of slots, named after the inventor Fritz Sticht. See also <i><b>GiGi</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "stick_clip",
+    "term": "stick clip",
+    "definition_cleaned": "A long pole with a <b>quickdraw</b> that can be clipped into the first <b>bolt</b> of a route from the ground.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "stopper",
+    "term": "stopper",
+    "definition_cleaned": "1. A wedge-shaped <b>nut</b> made by <b>Black Diamond</b>.<br/><br/>2. A <b>knot</b> used to prevent the end of a rope from running through\u2014and detaching from\u2014a piece of <b>gear</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "sure-footedness",
+    "term": "sure-footedness",
+    "definition_cleaned": "Sure-footedness is the ability when hiking or mountain climbing, to negotiate difficult or rough terrain safely.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "swami_belt",
+    "term": "swami belt",
+    "definition_cleaned": "A type of simple climbing <b>harness</b>",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "tat",
+    "term": "tat",
+    "definition_cleaned": "Term to describe pieces of <b>webbing</b> or <b>cord</b> left on a climb (e.g. \"I found some old tat\") often as part of an irretrievable <b>anchor</b> point that was part of an <b>abseil station</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "take",
+    "term": "take",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>take-in</b>.</span></p> The act of taking the <b>slack</b> out of a rope; also a <b>climbing command</b> by a <b>lead climber</b> to the <b>belayer</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "talus",
+    "term": "talus",
+    "definition_cleaned": "An area of large rock fragments on a mountainside where the rocks are stable and not loose like <b>scree</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "talon_hook",
+    "term": "talon hook",
+    "definition_cleaned": "A type of three-pronged climbing hook used for securing the climber to a horizontal edge in the rock face. Each prong contains a curved hook of differing widths for securing onto respective edge sizes when aid climbing.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "tape",
+    "term": "tape",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>climbing tape</b> and <b>second skin</b></span></p> Adhesive tape that is wrapped around the fingers and hands to protect the skin; particularly useful in <b>crack climbing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "technical_grade",
+    "term": "technical grade",
+    "definition_cleaned": "Classifications intended as an objective measure of the technical difficulty of a climbing route (including rock, ice, bouldering, mixed, and aid). The most widely used <b>lead climbing</b> grading systems are the <b>French sport climbing grades</b>, and the American <b>Yosemite Decimal System</b>; for <b>bouldering</b>, it is the <b>font</b> grade and the <b>V-grade</b> systems.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "testpiece",
+    "term": "testpiece",
+    "definition_cleaned": "A route that is representative of the hardest climbs in an area at a particular <b>grade</b> (e.g. <i><b>Action Directe</b></i> for <b>grade</b> 9a).",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "tie_in",
+    "term": "tie in",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>tying in</b>.</span></p> To physically attach the <b>harness</b> to the climbing rope, usually via a <b>figure-eight knot</b>. See <i><b>clip in</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "thread",
+    "term": "thread",
+    "definition_cleaned": "A <b>runner</b> created by \"threading\" a <b>sling</b> around a jammed block or through a hole in the rock.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "toe_hook",
+    "term": "toe hook",
+    "definition_cleaned": "Act of pressing the upper side of the toes under a <b>hold</b> to pull the climber inwards; used on <b>overhang</b>s.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "topo",
+    "term": "topo",
+    "definition_cleaned": "The graphical representation \u2013 drawing or photograph \u2013 of a climbing route, with the main obstacles marked.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "top_rope_climbing",
+    "term": "top rope climbing",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>top roping</b></span></p> To <b>belay</b> from a fixed <b>anchor</b> point above the climb; if the climber falls, they just hang. See <i><b>hangdog</b>ging</i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "top-out",
+    "term": "top-out",
+    "definition_cleaned": "To complete a <b>route</b> by ascending over the top of the climb to safety.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "torque_pull",
+    "term": "torque pull",
+    "definition_cleaned": "A technique in <b>mixed climbing</b> and <b>dry-tooling</b> where the ice axe is wedged into a crack and twisted to generate torque to aid upward momentum. See also <i><b>undercling pull</b></i> and <i><b>stein pull</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "tracking",
+    "term": "tracking",
+    "definition_cleaned": "A climbing technique (common in indoor climbing) where the climber must place their feet on the same holds that their hands have just vacated.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "traditional_climbing",
+    "term": "traditional climbing",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>trad climbing</b> or simply <b>trad</b>.</span></p> A style of <b>lead climbing</b> where <b>protection</b> is placed as the <b>lead climber</b> ascends; opposite of <b>sport climbing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "trail_rope",
+    "term": "trail rope",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>haul line</b>.</span></p> A <b>big wall climbing</b> technique where the <b>lead climber</b> carries an additional static rope (in addition to their dynamic climbing rope) that hangs (or \"trails\") behind them as they ascend; the trail rope enables the belayer to pass equipment to the leader during the ascent, and for the leader to haul up equipment as the belayer ascends.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "traverse",
+    "term": "traverse",
+    "definition_cleaned": "1. A section of a <b>route</b> that requires progress in a horizontal direction.<br/><br/>2. A <b>Tyrolean traverse</b> is crossing a chasm using a <b>fixed rope</b> anchored at both ends.<br/><br/>3. A <b>pendulum traverse</b> is swinging across a wall suspended from a rope anchored above the climber.<br/><br/>4. A <b>tension traverse</b> is a static version of a pendulum traverse where rope tension is used to control movement.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "tricam",
+    "term": "tricam",
+    "definition_cleaned": "A simple <b>camming</b> <b>protection</b> device that has no moving parts (e.g. it is <b>passive protection</b>).",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "tuber",
+    "term": "tuber",
+    "definition_cleaned": "A type of <b>belay device</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "tufa",
+    "term": "tufa",
+    "definition_cleaned": "1. A <b>limestone</b> rib formation that protrudes from the wall which climbers can pinch-grip.<br/><br/>2. A plastic bolted-on <b>bouldering</b> hold to replicate such a formation on an <b>climbing wall</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "twin_ropes",
+    "term": "twin ropes",
+    "definition_cleaned": "In <b>lead climbing</b>, using two ropes that are even thinner than <b>double ropes</b>, both of which need to be <b>clipped in</b> at each point of <b>protection</b>; sometimes used in long <b>alpine climbing</b> routes with major <b>abseiling</b> descents.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "twist_lock",
+    "term": "twist lock",
+    "definition_cleaned": "A climbing move where the hips \"twist\" perpendicular to the wall, the inside arm is \"locked\" on an upper hold, the outside arm holds the body against the wall, and the feet press down to propel the body higher.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "uiaa",
+    "term": "UIAA",
+    "definition_cleaned": "Acronym for the international governance body for <b>mountaineering</b> and other types of <b>climbing</b>; UIAA also regulates <b>competition ice climbing</b>. See also <i><b>IFSC</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "uiaa_grade",
+    "term": "UIAA grade",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>UIAA scale</b>.</span></p> The <b>UIAA</b> grade system for rock climbing, which goes: ... VI, VII, VIII, IX, X, XI, .... , to XII; is less common than the <b>French grade</b> system or the American <b>YDS grade</b> system, but still used in Germany and parts of Eastern Europe.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "uiaa_scale_of_overall_difficulty",
+    "term": "UIAA Scale of Overall Difficulty",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>IFAS grade</b>, and <b>UIAA Scale of Difficulty</b></span></p> Part of the <b>alpine climbing</b> system for <b>grading</b> the technical difficulty of alpine climbing routes, which goes: F (\"facile/easy\"), PD (\"peu difficile/little difficult\"), AD (\"assez difficile/fairly hard\"), D (\"difficile/difficult\"), TD (\"tr\u00e8s difficile/very hard\"), and ED (\"extr\u00eamement difficile/extremely difficult\"); ED then goes ED1, ED2, ED3, .. etc.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "undercling",
+    "term": "undercling",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>undercut</b>.</span></p> A downward <b>hold</b> which is gripped with the palm of the hand facing upwards.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "undercling_pull",
+    "term": "undercling pull",
+    "definition_cleaned": "After a <b>stein pull</b> is completed, the undercling pull is a <b>mixed climbing</b> technique for continuing to use the hold to gain upward momentum by using the hold to pull into the rock; requires a lot more energy than a stein pull.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "undercut",
+    "term": "undercut",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>undercut</b>.</span></p> A downward <b>hold</b> which is gripped with the palm of the hand facing upwards.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "v-grade",
+    "term": "V-grade",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>Hueco scale</b>.</span></p> A <b>grading system</b> for <b>bouldering</b> <b>problems</b> invented by <b>John Sherman</b>, which goes: V0, V1, V2, V3, V4, V5, V6, V7, ... , to V17. The V-scale and the French <b>font</b> scale are the most common boulder grading systems in use worldwide.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "v-thread",
+    "term": "V-thread",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>Abalakov thread</b>.</span></p> A type of <b>abseiling</b> point used especially in winter and in <b>ice climbing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "verglas",
+    "term": "verglas",
+    "definition_cleaned": "A thin coating of ice that forms over rocks when rainfall or melting snow freezes, which is hard to climb on as there is insufficient depth for <b>crampons</b> to have penetration. See also <i><b>clear ice</b></i> and <i><b>glaze ice</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "via_ferrata",
+    "term": "via ferrata",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>Klettersteig</b>.</span></p> An alpine <b>route</b> where <b>protection</b> is from permanent steel <b>fixed ropes</b> or chains, with progression aided by artificial steel steps or ladders; commonly found in the <b>Dolomites</b>. See also <i><b>lanyard</b></i> and <i><b>energy absorber</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "volume_hold",
+    "term": "volume hold",
+    "definition_cleaned": "A large, hollow, bolted-on <b>hold</b>, for indoor <b>climbing wall</b>s; it may itself contain individual holds",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "wi-grade",
+    "term": "WI-grade",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>ice climbing grades</b>.</span></p> Part of the <b>ice climbing</b> system for <b>grading</b> the technical difficulty of ice climbing routes, which goes: WI1, WI2, WI3, WI4, WI5, WI6, and up to WI13. See also <i><b>M-grade</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "webbing",
+    "term": "webbing",
+    "definition_cleaned": "A hollow and flat nylon strip mainly used to make <b>slings</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "webolette",
+    "term": "webolette",
+    "definition_cleaned": "A piece of <b>webbing</b> with eyes sewn into the ends which can be used in place of a <b>cordelette</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "weighting",
+    "term": "weighting",
+    "definition_cleaned": "Any time a rope sustains the weight of the climber, e.g. \"weighting the rope\". This can happen during a minor fall, a <b>whipper</b> (long fall), or simply by resting while hanging on the <b>belay</b> rope. See also <i><b>hangdogging</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "whipper",
+    "term": "whipper",
+    "definition_cleaned": "<div class=\"hatnote navigation-not-searchable\" role=\"note\">For other uses, see <b>Whipper (disambiguation)</b>.</div> A large fall by a <b>lead climber</b> as they were well beyond the last piece of <b>protection</b>. See <i><b>screamer</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "wire_brushing",
+    "term": "wire brushing",
+    "definition_cleaned": "<b>Cleaning</b> a rock climbing route with a wire brush before an attempt; has ethical issues due to rock damage and possible <b>chipping</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "wired",
+    "term": "wired",
+    "definition_cleaned": "To have a complete understanding of a particular climbing move or sequence of moves on a route.",
+    "image_file": null,
+    "is_technique": true
+  },
+  {
+    "id": "wires",
+    "term": "wires",
+    "definition_cleaned": "A metal wedge attached to a wire loop that is inserted into cracks for <b>protection</b>. See <i><b>hexcentric</b></i>.",
+    "image_file": "nut.jpg",
+    "is_technique": false
+  },
+  {
+    "id": "x",
+    "term": "X",
+    "definition_cleaned": "A suffix used in the <b>Yosemite decimal system</b> for highlighting <b>traditional climbing</b> routes that have poor or even no possibilities for <b>protection</b>, where any fall could be fatal (e.g. <i><b>Indian Face</b></i> and <i><b>Gaia</b></i>). See <i><b>R/X</b></i> and <i><b>chop route</b></i>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "yaniro",
+    "term": "yaniro",
+    "definition_cleaned": "French term for a <b>figure-four</b> move which came from American climber <b>Tony Yaniro</b>'s use of it on <i>Chouca</i> <b>8a+</b> (5.13c).",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "yo-yo",
+    "term": "yo-yo",
+    "definition_cleaned": "A <b>free climbing</b> term pre-<b>redpoint</b>ing, where a falling <b>lead climber</b> returns to the ground to restart, but leaves their rope clipped into the <b>protection</b> \u2014 in redpointing, the rope is pulled free from all protection before re-starting the climb.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "yosemite_decimal_system",
+    "term": "Yosemite Decimal System",
+    "definition_cleaned": "American system for <b>grading</b> walks, hikes, and climbs; the rock climbing (5.x) goes: 5.7, 5.8, 5.9, 5.10a, 5.10b, 5.10c, 5.10d, 5.11a, .... , 5.14a, 5.14b, 5.14c, 5.14d, 5.15a, etc., and with the <b>French grade</b> system, is the most widely used grading system worldwide for <b>sport climbing</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "z-clipping",
+    "term": "z-clipping",
+    "definition_cleaned": "While <b>lead climbing</b>, <b>clipping into</b> <b>protection</b> with a segment of rope from <i>beneath</i> the previous piece of protection, resulting in <b>rope drag</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "z-pulley",
+    "term": "z-pulley",
+    "definition_cleaned": "A system of rope, anchors, and <b>pulley</b>s; is typically used to extricate a climber after falling into a <b>crevasse</b>.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "zawn",
+    "term": "zawn",
+    "definition_cleaned": "In Britain, a deep, narrow inlet in a sea cliff that is filled by the sea at high tide.",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "zipper_fall",
+    "term": "zipper fall",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>gear rip-out</b>.</span></p> A <b>traditional climbing</b> <b>ground fall</b> where all the <b>protection</b> gear fails in sequence (i.e. opens like a \"zip\").",
+    "image_file": null,
+    "is_technique": false
+  },
+  {
+    "id": "zone_hold",
+    "term": "zone hold",
+    "definition_cleaned": "In <b>competition bouldering</b>, a hold roughly halfway up that counts towards scoring; formerly (up to 2017) \"bonus hold\".",
+    "image_file": null,
+    "is_technique": false
+  }
+]
