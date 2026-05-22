@@ -548,7 +548,7 @@
   {
     "id": "carabiner",
     "term": "carabiner",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>twist-lock carabiner</b>, <b>bent-gate carabiner</b>.</span></p> An aluminum loop with a spring-loaded gate used to attach various load-bearing climbing devices together.",
+    "definition_cleaned": "An aluminum loop with a spring-loaded gate used to attach various load-bearing climbing devices together.",
     "image_file": null,
     "is_technique": false
   },
@@ -737,7 +737,7 @@
   {
     "id": "clip_in",
     "term": "clip in",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>clipping in</b>.</span></p> The process of attaching the rope to <b>protection</b> (usually via a <b>carabiner</b>), to <b>belay</b> devices, or to other <b>anchors</b>. See <b>tie in</b>.",
+    "definition_cleaned": "The process of attaching the rope to <b>protection</b> (usually via a <b>carabiner</b>), to <b>belay</b> devices, or to other <b>anchors</b>. See <b>tie in</b>.",
     "image_file": null,
     "is_technique": false
   },
@@ -849,7 +849,7 @@
   {
     "id": "crimp",
     "term": "crimp",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>crimper</b>.</span></p> A hold which is only just big enough to be grasped with the tips of the fingers.",
+    "definition_cleaned": "A hold which is only just big enough to be grasped with the tips of the fingers.",
     "image_file": null,
     "is_technique": false
   },
@@ -996,7 +996,7 @@
   {
     "id": "drag",
     "term": "drag",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>rope drag</b>.</span></p> Friction from the rope running over the rock and through the lower <b>protection</b>. See <i><b>slack</b></i> and <i><b>double ropes</b></i>.",
+    "definition_cleaned": "Friction from the rope running over the rock and through the lower <b>protection</b>. See <i><b>slack</b></i> and <i><b>double ropes</b></i>.",
     "image_file": null,
     "is_technique": false
   },
@@ -1073,7 +1073,7 @@
   {
     "id": "egyptian",
     "term": "Egyptian",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>egyptian</b>.</span></p> <p class=\"glossary-hatnote\"><span>Also <b>knee drop</b>.</span></p><p class=\"glossary-hatnote\"><span>Also <b>lolotte</b>.</span></p> An advanced <b>rock-climbing technique</b> where the knee is dropped downwards to twist the hips\u2014and the centre of gravity\u2014closer to the rock face, thus increasing the amount of upward reach and torque available to the climber; the unique stresses on the knee can lead to serious injuries.",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>knee drop</b>.</span></p><p class=\"glossary-hatnote\"><span>Also <b>lolotte</b>.</span></p> An advanced <b>rock-climbing technique</b> where the knee is dropped downwards to twist the hips\u2014and the centre of gravity\u2014closer to the rock face, thus increasing the amount of upward reach and torque available to the climber; the unique stresses on the knee can lead to serious injuries.",
     "image_file": "egyptian.jpg",
     "is_technique": true
   },
@@ -1101,7 +1101,7 @@
   {
     "id": "elvis_legs",
     "term": "Elvis legs",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>scissor leg</b>, <b>Elvis legs</b>, or <b>disco knee</b>.</span></p> The involuntary vibration of the leg due to fatigue and/or panic and stress.",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>scissor leg</b>, or <b>disco knee</b>.</span></p> The involuntary vibration of the leg due to fatigue and/or panic and stress.",
     "image_file": null,
     "is_technique": false
   },
@@ -1185,14 +1185,14 @@
   {
     "id": "figure-four",
     "term": "figure-four",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>figure of four</b> and <b>figure-four move</b> and <b>yaniro</b></span></p> An advanced <b>climbing technique</b> in which the climber hooks a leg over the opposite arm (which needs to be in a good handhold), and then pushes down with this leg to achieve a greater vertical reach; more common in <b>mixed climbing</b>.",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>yaniro</b></span></p> An advanced <b>climbing technique</b> in which the climber hooks a leg over the opposite arm (which needs to be in a good handhold), and then pushes down with this leg to achieve a greater vertical reach; more common in <b>mixed climbing</b>.",
     "image_file": "figure-four.jpg",
     "is_technique": true
   },
   {
     "id": "figure-nine",
     "term": "figure-nine",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>figure of nine</b> and <b>figure-nine move</b></span></p> A variation of the <b>figure-four</b> move where the \"same-side\" leg is used instead of the \"opposite\" leg.",
+    "definition_cleaned": "An advanced <b>climbing technique</b> in which the climber hooks a leg over the same-side arm (which needs to be in a good handhold), and then pushes down with this leg to achieve a greater vertical reach; more common in <b>mixed climbing</b>.",
     "image_file": null,
     "is_technique": false
   },
@@ -1206,8 +1206,8 @@
   {
     "id": "figure-eight_knot",
     "term": "figure-eight knot",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>figure-eight loop</b>.</span></p> A knot commonly used to <b>tie in</b> a climber's <b>harness</b> to the climbing rope.",
-    "image_file": "figure-eight_knot.JPG",
+    "definition_cleaned": "A knot commonly used to <b>tie in</b> a climber's <b>harness</b> to the climbing rope.",
+    "image_file": "figure_eight.JPG",
     "is_technique": false
   },
   {
@@ -1325,7 +1325,7 @@
   {
     "id": "free_solo_climbing",
     "term": "free solo climbing",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>free soloing</b>.</span></p> Climbing without any type of <b>aid</b> or any form of climbing <b>protection</b>.",
+    "definition_cleaned": "Climbing without any type of <b>aid</b> or any form of climbing <b>protection</b>.",
     "image_file": "free_solo_climbing.jpg",
     "is_technique": false
   },
@@ -1458,7 +1458,7 @@
   {
     "id": "greenpoint",
     "term": "greenpoint",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>greenpointing</b>.</span></p> Ascending a <b>sport climbing</b> route but only using <b>traditional climbing</b> protection (e.g. <i><b>Principle Hope</b></i>). See <i><b>redpoint</b></i>.",
+    "definition_cleaned": "Ascending a <b>sport climbing</b> route but only using <b>traditional climbing</b> protection (e.g. <i><b>Principle Hope</b></i>). See <i><b>redpoint</b></i>.",
     "image_file": null,
     "is_technique": false
   },
@@ -1486,7 +1486,7 @@
   {
     "id": "half_ropes",
     "term": "half ropes",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>half ropes</b>.</span></p> In <b>lead climbing</b> where two thinner ropes are used instead of a single rope to manage <b>rope drag</b>. Compare <i><b>twin ropes</b></i>.",
+    "definition_cleaned": "In <b>lead climbing</b> where two thinner ropes are used instead of a single rope to manage <b>rope drag</b>. Compare <i><b>twin ropes</b></i>.",
     "image_file": "double_ropes.jpg",
     "is_technique": false
   },
@@ -1563,7 +1563,7 @@
   {
     "id": "headpoint",
     "term": "headpoint",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>headpointing</b>.</span></p> <b>Top-roping</b> a <b>traditional climbing</b> route before <b>lead climbing</b> it to practice the moves. See <i><b>redpoint</b></i>.",
+    "definition_cleaned": "<b>Top-roping</b> a <b>traditional climbing</b> route before <b>lead climbing</b> it to practice the moves.",
     "image_file": null,
     "is_technique": false
   },
@@ -1584,7 +1584,7 @@
   {
     "id": "heel-toe",
     "term": "heel-toe",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>heel-toe cam</b>.</span></p> A combination of a <b>toe hook</b> and <b>heel hook</b> to hold the body onto the climbing route.",
+    "definition_cleaned": "A combination of a <b>toe hook</b> and <b>heel hook</b> to hold the body onto the climbing route.",
     "image_file": null,
     "is_technique": false
   },
@@ -1647,7 +1647,7 @@
   {
     "id": "hueco_scale",
     "term": "hueco scale",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>Hueco scale</b>.</span></p> A <b>grading system</b> for <b>bouldering</b> <b>problems</b> invented by <b>John Sherman</b>, which goes: V0, V1, V2, V3, V4, V5, V6, V7, ... , to V17. The V-scale and the French <b>font</b> scale are the most common boulder grading systems in use worldwide.",
+    "definition_cleaned": "A <b>grading system</b> for <b>bouldering</b> <b>problems</b> invented by <b>John Sherman</b>, which goes: V0, V1, V2, V3, V4, V5, V6, V7, ... , to V17. The V-scale and the French <b>font</b> scale are the most common boulder grading systems in use worldwide.",
     "image_file": null,
     "is_technique": false
   },
@@ -1773,7 +1773,7 @@
   {
     "id": "knee_drop",
     "term": "knee drop",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>egyptian</b>.</span></p> <p class=\"glossary-hatnote\"><span>Also <b>knee drop</b>.</span></p><p class=\"glossary-hatnote\"><span>Also <b>lolotte</b>.</span></p> An advanced <b>rock-climbing technique</b> where the knee is dropped downwards to twist the hips\u2014and the centre of gravity\u2014closer to the rock face, thus increasing the amount of upward reach and torque available to the climber; the unique stresses on the knee can lead to serious injuries.",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>egyptian</b>.</span></p> <p class=\"glossary-hatnote\"><span>Also <b>lolotte</b>.</span></p> An advanced <b>rock-climbing technique</b> where the knee is dropped downwards to twist the hips\u2014and the centre of gravity\u2014closer to the rock face, thus increasing the amount of upward reach and torque available to the climber; the unique stresses on the knee can lead to serious injuries.",
     "image_file": "egyptian.jpg",
     "is_technique": true
   },
@@ -1794,7 +1794,7 @@
   {
     "id": "ladder",
     "term": "ladder",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>aluminum ladder</b>.</span></p> Lightweight rigid aluminum ladders are used in <b>expedition style</b> mountaineering to cross crevasses or on difficult sections as a form of <b>aid climbing</b> support (this can also be done with flexible <i><b>bachar ladder</b>s</i>). See also <i><b>aider</b></i>.",
+    "definition_cleaned": "Lightweight rigid aluminum ladders are used in <b>expedition style</b> mountaineering to cross crevasses or on difficult sections as a form of <b>aid climbing</b> support (this can also be done with flexible <i><b>bachar ladder</b>s</i>). See also <i><b>aider</b></i>.",
     "image_file": "ladder.JPG",
     "is_technique": false
   },
@@ -1864,7 +1864,7 @@
   {
     "id": "lolotte",
     "term": "lolotte",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>egyptian</b>.</span></p> <p class=\"glossary-hatnote\"><span>Also <b>knee drop</b>.</span></p><p class=\"glossary-hatnote\"><span>Also <b>lolotte</b>.</span></p> An advanced <b>rock-climbing technique</b> where the knee is dropped downwards to twist the hips\u2014and the centre of gravity\u2014closer to the rock face, thus increasing the amount of upward reach and torque available to the climber; the unique stresses on the knee can lead to serious injuries.",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>egyptian</b>.</span></p> <p class=\"glossary-hatnote\"><span>Also <b>knee drop</b>.</span></p>An advanced <b>rock-climbing technique</b> where the knee is dropped downwards to twist the hips\u2014and the centre of gravity\u2014closer to the rock face, thus increasing the amount of upward reach and torque available to the climber; the unique stresses on the knee can lead to serious injuries.",
     "image_file": "egyptian.jpg",
     "is_technique": true
   },
@@ -2088,14 +2088,14 @@
   {
     "id": "picket",
     "term": "picket",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>snow picket</b>.</span></p> A long, tubular rod driven into the snow to provide a makeshift <b>anchor</b>.",
+    "definition_cleaned": "A long, tubular rod driven into the snow to provide a makeshift <b>anchor</b>.",
     "image_file": "picket.JPG",
     "is_technique": false
   },
   {
     "id": "pinch_hold",
     "term": "pinch hold",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>pinch</b>.</span></p> A hold which must be \"pinched\" between the fingers to use it.",
+    "definition_cleaned": "A hold which must be \"pinched\" between the fingers to use it.",
     "image_file": null,
     "is_technique": false
   },
@@ -2172,7 +2172,7 @@
   {
     "id": "problem",
     "term": "problem",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>bouldering problem</b> or <b>boulder problem</b>.</span></p> Used in <b>bouldering</b> to describe the sequence of moves to be overcome.",
+    "definition_cleaned": "Used in <b>bouldering</b> to describe the sequence of moves to be overcome.",
     "image_file": null,
     "is_technique": false
   },
@@ -2186,7 +2186,7 @@
   {
     "id": "project",
     "term": "project",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>projecting</b>.</span></p> An attempt over time to climb a new (worldwide or personal) <b>route</b> or boulder <b>problem</b> as a \"project\".",
+    "definition_cleaned": "An attempt over time to climb a new (worldwide or personal) <b>route</b> or boulder <b>problem</b> as a \"project\".",
     "image_file": null,
     "is_technique": false
   },
@@ -2207,14 +2207,14 @@
   {
     "id": "pulley",
     "term": "pulley",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>climbing pulley</b>.</span></p> The lightweight mechanical pully that has wide application in climbing including <b>big wall climbing</b> (especially gear hauling) and <b>crevasse rescue</b> and in <b>tyrolean traverseing</b>.",
+    "definition_cleaned": "The lightweight mechanical pully that has wide application in climbing including <b>big wall climbing</b> (especially gear hauling) and <b>crevasse rescue</b> and in <b>tyrolean traverseing</b>.",
     "image_file": "pulley.jpg",
     "is_technique": false
   },
   {
     "id": "pump",
     "term": "pump",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>pumped</b>.</span></p> The accumulation of metabolic waste products in the forearm(s) so that holding a basic grip becomes impossible.",
+    "definition_cleaned": "The accumulation of metabolic waste products in the forearm(s) so that holding a basic grip becomes impossible.",
     "image_file": null,
     "is_technique": false
   },
@@ -2242,7 +2242,7 @@
   {
     "id": "rappel",
     "term": "rappel",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>rappelling</b>.</span></p> A technique by which a climber descends via a <b>fixed rope</b> that is firmly attached to a fixed <b>anchor</b> point, which is also known as an \"abseil station\". See <i><b>tat</b></i> and <i><b>cord</b></i>.",
+    "definition_cleaned": "A technique by which a climber descends via a <b>fixed rope</b> that is firmly attached to a fixed <b>anchor</b> point, which is also known as an \"abseil station\". See <i><b>tat</b></i> and <i><b>cord</b></i>.",
     "image_file": null,
     "is_technique": false
   },
@@ -2256,7 +2256,7 @@
   {
     "id": "re-belay",
     "term": "re-belay",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>rebelay</b>.</span></p> Secondary or intermediate fixed <b>anchor point(s)</b> along the length of a <b>fixed rope</b> (i.e. in addition to the main <b>anchor</b> at the top of the fixed rope) that is used to avoid edges that could increase rope wear.",
+    "definition_cleaned": "Secondary or intermediate fixed <b>anchor point(s)</b> along the length of a <b>fixed rope</b> (i.e. in addition to the main <b>anchor</b> at the top of the fixed rope) that is used to avoid edges that could increase rope wear.",
     "image_file": null,
     "is_technique": false
   },
@@ -2354,7 +2354,7 @@
   {
     "id": "rope_drag",
     "term": "rope drag",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>rope drag</b>.</span></p> Friction from the rope running over the rock and through the lower <b>protection</b>. See <i><b>slack</b></i> and <i><b>double ropes</b></i>.",
+    "definition_cleaned": "Friction from the rope running over the rock and through the lower <b>protection</b>. See <i><b>slack</b></i> and <i><b>double ropes</b></i>.",
     "image_file": null,
     "is_technique": false
   },
@@ -2487,7 +2487,7 @@
   {
     "id": "self-belay",
     "term": "self-belay",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>self-belaying</b>.</span></p> The act of using a mechanical device for <b>belaying</b> in <b>solo climbing</b>. See <i><b>self-locking device</b></i>.",
+    "definition_cleaned": "The act of using a mechanical device for <b>belaying</b> in <b>solo climbing</b>. See <i><b>self-locking device</b></i>.",
     "image_file": null,
     "is_technique": false
   },
@@ -2578,7 +2578,7 @@
   {
     "id": "sit_start",
     "term": "sit start",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>sit down start</b> or <b>SDS</b></span></p> <b>Bouldering</b> term for a route that must be started from a seated position on the ground with hands and feet on prescribed holds; acronyms are <i>SS</i> (sit-start), <i>SDS</i> (sit-down-start), or <i>assis</i> (french); concept invented by John Yablonski.",
+    "definition_cleaned": "<b>Bouldering</b> term for a route that must be started from a seated position on the ground with hands and feet on prescribed holds; acronyms are <i>SS</i> (sit-start), <i>SDS</i> (sit-down-start), or <i>assis</i> (french); concept invented by John Yablonski.",
     "image_file": null,
     "is_technique": false
   },
@@ -2788,7 +2788,7 @@
   {
     "id": "take",
     "term": "take",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>take-in</b>.</span></p> The act of taking the <b>slack</b> out of a rope; also a <b>climbing command</b> by a <b>lead climber</b> to the <b>belayer</b>.",
+    "definition_cleaned": "The act of taking the <b>slack</b> out of a rope; also a <b>climbing command</b> by a <b>lead climber</b> to the <b>belayer</b>.",
     "image_file": null,
     "is_technique": false
   },
@@ -2809,7 +2809,7 @@
   {
     "id": "tape",
     "term": "tape",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>climbing tape</b> and <b>second skin</b></span></p> Adhesive tape that is wrapped around the fingers and hands to protect the skin; particularly useful in <b>crack climbing</b>.",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>second skin</b></span></p> Adhesive tape that is wrapped around the fingers and hands to protect the skin; particularly useful in <b>crack climbing</b>.",
     "image_file": null,
     "is_technique": false
   },
@@ -2830,7 +2830,7 @@
   {
     "id": "tie_in",
     "term": "tie in",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>tying in</b>.</span></p> To physically attach the <b>harness</b> to the climbing rope, usually via a <b>figure-eight knot</b>. See <i><b>clip in</b></i>.",
+    "definition_cleaned": "To physically attach the <b>harness</b> to the climbing rope, usually via a <b>figure-eight knot</b>.",
     "image_file": null,
     "is_technique": false
   },
@@ -2858,7 +2858,7 @@
   {
     "id": "top_rope_climbing",
     "term": "top rope climbing",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>top roping</b></span></p> To <b>belay</b> from a fixed <b>anchor</b> point above the climb; if the climber falls, they just hang. See <i><b>hangdog</b>ging</i>.",
+    "definition_cleaned": "To <b>belay</b> from a fixed <b>anchor</b> point above the climb; if the climber falls, they just hang. See <i><b>hangdog</b>ging</i>.",
     "image_file": null,
     "is_technique": false
   },
@@ -2886,7 +2886,7 @@
   {
     "id": "traditional_climbing",
     "term": "traditional climbing",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>trad climbing</b> or simply <b>trad</b>.</span></p> A style of <b>lead climbing</b> where <b>protection</b> is placed as the <b>lead climber</b> ascends; opposite of <b>sport climbing</b>.",
+    "definition_cleaned": "A style of <b>lead climbing</b> where <b>protection</b> is placed as the <b>lead climber</b> ascends; opposite of <b>sport climbing</b>.",
     "image_file": null,
     "is_technique": false
   },
@@ -2949,7 +2949,7 @@
   {
     "id": "uiaa_grade",
     "term": "UIAA grade",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>UIAA scale</b>.</span></p> The <b>UIAA</b> grade system for rock climbing, which goes: ... VI, VII, VIII, IX, X, XI, .... , to XII; is less common than the <b>French grade</b> system or the American <b>YDS grade</b> system, but still used in Germany and parts of Eastern Europe.",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>IFAS grade</b>.</span></p> The <b>UIAA</b> grade system for rock climbing, which goes: ... VI, VII, VIII, IX, X, XI, .... , to XII; is less common than the <b>French grade</b> system or the American <b>YDS grade</b> system, but still used in Germany and parts of Eastern Europe.",
     "image_file": null,
     "is_technique": false
   },
@@ -2977,7 +2977,7 @@
   {
     "id": "undercut",
     "term": "undercut",
-    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>undercut</b>.</span></p> A downward <b>hold</b> which is gripped with the palm of the hand facing upwards.",
+    "definition_cleaned": "<p class=\"glossary-hatnote\"><span>Also <b>undercling</b>.</span></p> A downward <b>hold</b> which is gripped with the palm of the hand facing upwards.",
     "image_file": null,
     "is_technique": false
   },
