@@ -4,7 +4,7 @@ import genanki
 import sys
 
 BASE_DIR = os.path.dirname(__file__)
-ARTIFACT_DIR = os.path.join(BASE_DIR, "generated")
+ARTIFACT_DIR = os.path.join(os.path.dirname(os.path.dirname(BASE_DIR)), "decks")
 IMAGES_DIR = os.path.join(BASE_DIR, "images")
 PROCESSED_DATA_PATH = os.path.join(BASE_DIR, "processed_data.json")
 
