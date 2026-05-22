@@ -1,0 +1,28 @@
+name: Generate Decks
+
+on:
+  push:
+    branches: [ "main" ]
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v6
+
+    - name: Install Python dependencies
+      run: pip install requests --index-url https://pypi.org/simple beautifulsoup4 genanki
+
+    - name: Generate decks
+      run: python source/climbing/generator.py
+
+    - name: Upload release
+      uses: softprops/action-gh-release@v3
+      with:
+        files: |
+          decks/climbing\ techniques.apkg
+          decks/climbing\ terms.apkg
