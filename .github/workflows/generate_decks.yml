@@ -23,7 +23,7 @@ jobs:
     - name: Upload release
       uses: softprops/action-gh-release@v3
       with:
-        tag: latest
+        tag_name: latest
         files: |
           decks/climbing\ techniques.apkg
           decks/climbing\ terms.apkg
